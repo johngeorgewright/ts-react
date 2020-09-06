@@ -1,0 +1,71 @@
+{
+  "name": "@johngeorgewright/ts-react",
+  "version": "0.0.0",
+  "description": "A template for browser bundling TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "prebuild": "npm run clean",
+    "build": "parcel build ./src/index.tsx",
+    "clean": "rimraf dist",
+    "start": "concurrently npm:start:*",
+    "start:server": "parcel serve ./src/index.html",
+    "start:type-check": "tsc --watch --preserveWatchOutput --noEmit",
+    "start:test": "jest --watch src",
+    "test": "jest src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngeorgewright/ts-react.git"
+  },
+  "keywords": [
+    "template",
+    "react",
+    "typescript"
+  ],
+  "author": "John Wright <johngeorge.wright@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johngeorgewright/ts-react/issues"
+  },
+  "homepage": "https://github.com/johngeorgewright/ts-react#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^9.1.2",
+    "@commitlint/config-conventional": "^9.1.2",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@types/jest": "^26.0.13",
+    "@types/node": "^14.6.4",
+    "@types/react": "^16.9.49",
+    "@types/react-dom": "^16.9.8",
+    "commitizen": "^4.2.1",
+    "concurrently": "^5.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "fontsource-roboto": "^3.0.3",
+    "husky": "^4.2.5",
+    "jest": "^26.4.2",
+    "lint-staged": "^10.3.0",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.1.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "rimraf": "^3.0.2",
+    "ts-jest": "^26.3.0",
+    "typescript": "^4.0.2"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{md,json,js,jsx,ts,tsx,yml,yaml}": [
+      "prettier --ignore-path .gitignore --write"
+    ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
