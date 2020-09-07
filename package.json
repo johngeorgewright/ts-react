@@ -48,6 +48,7 @@
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.1.1",
     "react": "^16.13.1",
+    "react-component-mock": "file:../react-component-mock",
     "react-dom": "^16.13.1",
     "rimraf": "^3.0.2",
     "ts-jest": "^26.3.0",
