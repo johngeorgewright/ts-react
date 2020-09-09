@@ -7,11 +7,10 @@
   "scripts": {
     "prebuild": "npm run clean",
     "build": "parcel build ./src/index.tsx",
-    "clean": "rimraf dist",
+    "clean": "rimraf dist && rimraf .cache",
     "start": "concurrently npm:start:*",
     "start:server": "parcel serve ./src/index.html",
     "start:type-check": "tsc --watch --preserveWatchOutput --noEmit",
-    "start:test": "jest --watch src",
     "test": "jest src"
   },
   "repository": {
