@@ -1,2 +1,3 @@
 # ts-react
-A template for browser bundling TypeScript 
+
+A template for browser bundling TypeScript

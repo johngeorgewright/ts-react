@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "A template for browser bundling TypeScript",
   "main": "dist/index.js",
+  "private": true,
   "scripts": {
     "prebuild": "npm run clean",
     "build": "parcel build ./src/index.tsx",
