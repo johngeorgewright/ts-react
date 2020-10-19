@@ -1,4 +1,4 @@
-import React, { useCallback } from 'react'
+import React from 'react'
 import { Typography, Button } from '@material-ui/core'
 import assertNever from 'assert-never'
 import useCycle from '../hooks/useCycle'
@@ -11,14 +11,13 @@ enum State {
 
 export default function Hello() {
   const [state, nextState] = useCycle(Object.values(State))
-  const updateState = useCallback(nextState, [state])
 
   return (
     <>
       <Typography variant="h3" component="h1" gutterBottom>
         @johngeorgewright/ts-react
       </Typography>
-      <Button variant="contained" color={color(state)} onClick={updateState}>
+      <Button variant="contained" color={color(state)} onClick={nextState}>
         {state} World
       </Button>
     </>
