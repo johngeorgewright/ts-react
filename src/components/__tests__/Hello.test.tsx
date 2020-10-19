@@ -1,5 +1,5 @@
 import React from 'react'
-import { render } from '@testing-library/react'
+import { fireEvent, render } from '@testing-library/react'
 import Hello from '../Hello'
 
 test('hello world', () => {
@@ -28,4 +28,15 @@ test('hello world', () => {
       </button>
     </div>
   `)
+})
+
+test('clicking the button', () => {
+  const component = render(<Hello />)
+  let button = component.getByText('Morning World')
+  fireEvent.click(button)
+  button = component.getByText('Afternoon World')
+  fireEvent.click(button)
+  button = component.getByText('Evening World')
+  fireEvent.click(button)
+  component.getByText('Morning World')
 })
