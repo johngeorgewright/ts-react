@@ -23,10 +23,7 @@ const config: webpack.Configuration = {
               '@babel/preset-typescript',
               '@babel/preset-react',
             ],
-            plugins: [
-              ['@babel/plugin-proposal-class-properties', { loose: true }],
-              'react-hot-loader/babel',
-            ],
+            plugins: ['react-hot-loader/babel'],
           },
         },
       },
