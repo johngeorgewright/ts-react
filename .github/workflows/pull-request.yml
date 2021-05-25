@@ -17,6 +17,9 @@ jobs:
         with:
           node-version: 14
 
+      - name: Setup
+        run: yarn
+
       - name: Build
         run: yarn build
 
