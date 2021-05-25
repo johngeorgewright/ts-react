@@ -82,10 +82,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
                   ],
                   [
                     '@testing-library/react-hooks',
-                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.1.3',
+                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.0.0',
                   ],
                   ['@types/jest', 'npm:26.0.23'],
-                  ['@types/node', 'npm:14.17.0'],
+                  ['@types/node', 'npm:14.17.1'],
                   ['@types/react', 'npm:17.0.6'],
                   ['@types/react-dom', 'npm:17.0.5'],
                   ['@types/webpack-dev-server', 'npm:3.11.4'],
@@ -143,7 +143,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
                   ],
                   [
                     'ts-node',
-                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.1',
+                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.0.0',
                   ],
                   ['tslib', 'npm:2.2.0'],
                   [
@@ -4915,10 +4915,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
                   ],
                   [
                     '@testing-library/react-hooks',
-                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.1.3',
+                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.0.0',
                   ],
                   ['@types/jest', 'npm:26.0.23'],
-                  ['@types/node', 'npm:14.17.0'],
+                  ['@types/node', 'npm:14.17.1'],
                   ['@types/react', 'npm:17.0.6'],
                   ['@types/react-dom', 'npm:17.0.5'],
                   ['@types/webpack-dev-server', 'npm:3.11.4'],
@@ -4976,7 +4976,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
                   ],
                   [
                     'ts-node',
-                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.1',
+                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.0.0',
                   ],
                   ['tslib', 'npm:2.2.0'],
                   [
@@ -5470,25 +5470,25 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           '@testing-library/react-hooks',
           [
             [
-              'npm:5.1.3',
+              'npm:6.0.0',
               {
                 packageLocation:
-                  './.yarn/cache/@testing-library-react-hooks-npm-5.1.3-d23ea7b80d-839d868fc0.zip/node_modules/@testing-library/react-hooks/',
+                  './.yarn/cache/@testing-library-react-hooks-npm-6.0.0-78e13df09c-9c7fd8be18.zip/node_modules/@testing-library/react-hooks/',
                 packageDependencies: [
-                  ['@testing-library/react-hooks', 'npm:5.1.3'],
+                  ['@testing-library/react-hooks', 'npm:6.0.0'],
                 ],
                 linkType: 'SOFT',
               },
             ],
             [
-              'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.1.3',
+              'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.0.0',
               {
                 packageLocation:
-                  './.yarn/$$virtual/@testing-library-react-hooks-virtual-f94705b25b/0/cache/@testing-library-react-hooks-npm-5.1.3-d23ea7b80d-839d868fc0.zip/node_modules/@testing-library/react-hooks/',
+                  './.yarn/$$virtual/@testing-library-react-hooks-virtual-02339a2853/0/cache/@testing-library-react-hooks-npm-6.0.0-78e13df09c-9c7fd8be18.zip/node_modules/@testing-library/react-hooks/',
                 packageDependencies: [
                   [
                     '@testing-library/react-hooks',
-                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.1.3',
+                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.0.0',
                   ],
                   ['@babel/runtime', 'npm:7.14.0'],
                   ['@types/react', 'npm:17.0.6'],
@@ -5502,7 +5502,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
                   ],
                   [
                     'react-error-boundary',
-                    'virtual:f94705b25b0a4d78c0dd87c7fe57c5cd906f646e3565d2f328a2ed817ef8dcc7de703f674c8ec4dad0b4df943f72f73638b5be0d785d7397fa0d7f54927d1e9f#npm:3.1.3',
+                    'virtual:02339a2853eeecb4833ce48fe5a25f8ceddb30ee89d6d85d8d38d11e81d90b526c53feb9e793adbe5fe357741ebcaeb562ba5896fabe689ad37564c16377505a#npm:3.1.3',
                   ],
                   [
                     'react-test-renderer',
@@ -5530,6 +5530,62 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
                 packageLocation:
                   './.yarn/cache/@tootallnate-once-npm-1.1.2-0517220057-d030f3fb14.zip/node_modules/@tootallnate/once/',
                 packageDependencies: [['@tootallnate/once', 'npm:1.1.2']],
+                linkType: 'HARD',
+              },
+            ],
+          ],
+        ],
+        [
+          '@tsconfig/node10',
+          [
+            [
+              'npm:1.0.7',
+              {
+                packageLocation:
+                  './.yarn/cache/@tsconfig-node10-npm-1.0.7-06be8de131-a1ca752243.zip/node_modules/@tsconfig/node10/',
+                packageDependencies: [['@tsconfig/node10', 'npm:1.0.7']],
+                linkType: 'HARD',
+              },
+            ],
+          ],
+        ],
+        [
+          '@tsconfig/node12',
+          [
+            [
+              'npm:1.0.7',
+              {
+                packageLocation:
+                  './.yarn/cache/@tsconfig-node12-npm-1.0.7-3bbdd844d7-82b0352f66.zip/node_modules/@tsconfig/node12/',
+                packageDependencies: [['@tsconfig/node12', 'npm:1.0.7']],
+                linkType: 'HARD',
+              },
+            ],
+          ],
+        ],
+        [
+          '@tsconfig/node14',
+          [
+            [
+              'npm:1.0.0',
+              {
+                packageLocation:
+                  './.yarn/cache/@tsconfig-node14-npm-1.0.0-cf320499dc-3eda14250e.zip/node_modules/@tsconfig/node14/',
+                packageDependencies: [['@tsconfig/node14', 'npm:1.0.0']],
+                linkType: 'HARD',
+              },
+            ],
+          ],
+        ],
+        [
+          '@tsconfig/node16',
+          [
+            [
+              'npm:1.0.1',
+              {
+                packageLocation:
+                  './.yarn/cache/@tsconfig-node16-npm-1.0.1-0fb4cd7d44-c389a4a81c.zip/node_modules/@tsconfig/node16/',
+                packageDependencies: [['@tsconfig/node16', 'npm:1.0.1']],
                 linkType: 'HARD',
               },
             ],
@@ -5960,11 +6016,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           '@types/node',
           [
             [
-              'npm:14.17.0',
+              'npm:14.17.1',
               {
                 packageLocation:
-                  './.yarn/cache/@types-node-npm-14.17.0-2942ba859f-f437147b39.zip/node_modules/@types/node/',
-                packageDependencies: [['@types/node', 'npm:14.17.0']],
+                  './.yarn/cache/@types-node-npm-14.17.1-6efbb98787-3ab1180ff2.zip/node_modules/@types/node/',
+                packageDependencies: [['@types/node', 'npm:14.17.1']],
                 linkType: 'HARD',
               },
             ],
@@ -18670,14 +18726,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
               },
             ],
             [
-              'virtual:f94705b25b0a4d78c0dd87c7fe57c5cd906f646e3565d2f328a2ed817ef8dcc7de703f674c8ec4dad0b4df943f72f73638b5be0d785d7397fa0d7f54927d1e9f#npm:3.1.3',
+              'virtual:02339a2853eeecb4833ce48fe5a25f8ceddb30ee89d6d85d8d38d11e81d90b526c53feb9e793adbe5fe357741ebcaeb562ba5896fabe689ad37564c16377505a#npm:3.1.3',
               {
                 packageLocation:
-                  './.yarn/$$virtual/react-error-boundary-virtual-22a956dd20/0/cache/react-error-boundary-npm-3.1.3-df04a8391c-8b5294dd14.zip/node_modules/react-error-boundary/',
+                  './.yarn/$$virtual/react-error-boundary-virtual-c1eb6afa0f/0/cache/react-error-boundary-npm-3.1.3-df04a8391c-8b5294dd14.zip/node_modules/react-error-boundary/',
                 packageDependencies: [
                   [
                     'react-error-boundary',
-                    'virtual:f94705b25b0a4d78c0dd87c7fe57c5cd906f646e3565d2f328a2ed817ef8dcc7de703f674c8ec4dad0b4df943f72f73638b5be0d785d7397fa0d7f54927d1e9f#npm:3.1.3',
+                    'virtual:02339a2853eeecb4833ce48fe5a25f8ceddb30ee89d6d85d8d38d11e81d90b526c53feb9e793adbe5fe357741ebcaeb562ba5896fabe689ad37564c16377505a#npm:3.1.3',
                   ],
                   ['@babel/runtime', 'npm:7.14.0'],
                   ['@types/react', 'npm:17.0.6'],
@@ -21753,24 +21809,34 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           'ts-node',
           [
             [
-              'npm:9.1.1',
+              'npm:10.0.0',
               {
                 packageLocation:
-                  './.yarn/cache/ts-node-npm-9.1.1-4ad31da228-a90db4a342.zip/node_modules/ts-node/',
-                packageDependencies: [['ts-node', 'npm:9.1.1']],
+                  './.yarn/cache/ts-node-npm-10.0.0-9c3d77d0a0-dc461e2b9b.zip/node_modules/ts-node/',
+                packageDependencies: [['ts-node', 'npm:10.0.0']],
                 linkType: 'SOFT',
               },
             ],
             [
-              'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.1',
+              'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.0.0',
               {
                 packageLocation:
-                  './.yarn/$$virtual/ts-node-virtual-a0163d33a9/0/cache/ts-node-npm-9.1.1-4ad31da228-a90db4a342.zip/node_modules/ts-node/',
+                  './.yarn/$$virtual/ts-node-virtual-c05d9dbe55/0/cache/ts-node-npm-10.0.0-9c3d77d0a0-dc461e2b9b.zip/node_modules/ts-node/',
                 packageDependencies: [
                   [
                     'ts-node',
-                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.1',
+                    'virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.0.0',
                   ],
+                  ['@swc/core', null],
+                  ['@swc/wasm', null],
+                  ['@tsconfig/node10', 'npm:1.0.7'],
+                  ['@tsconfig/node12', 'npm:1.0.7'],
+                  ['@tsconfig/node14', 'npm:1.0.0'],
+                  ['@tsconfig/node16', 'npm:1.0.1'],
+                  ['@types/node', 'npm:14.17.1'],
+                  ['@types/swc__core', null],
+                  ['@types/swc__wasm', null],
+                  ['@types/types__node', null],
                   ['@types/typescript', null],
                   ['arg', 'npm:4.1.3'],
                   ['create-require', 'npm:1.1.1'],
@@ -21783,7 +21849,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
                   ],
                   ['yn', 'npm:3.1.1'],
                 ],
-                packagePeers: ['@types/typescript', 'typescript'],
+                packagePeers: [
+                  '@swc/core',
+                  '@swc/wasm',
+                  '@types/node',
+                  '@types/swc__core',
+                  '@types/swc__wasm',
+                  '@types/types__node',
+                  '@types/typescript',
+                  'typescript',
+                ],
                 linkType: 'HARD',
               },
             ],
