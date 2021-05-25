@@ -13,7 +13,6 @@ const config: webpack.Configuration = {
         use: {
           loader: 'babel-loader',
           options: {
-            cacheDirectory: true,
             babelrc: false,
             presets: [
               [
