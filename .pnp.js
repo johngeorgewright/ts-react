@@ -59,7 +59,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:8.2.2"],
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.0.0"],
             ["commitizen", "npm:4.2.4"],
-            ["concurrently", "npm:6.1.0"],
+            ["concurrently", "npm:6.2.0"],
             ["css-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.2.6"],
             ["cz-conventional-changelog", "npm:3.3.0"],
             ["fontsource-roboto", "npm:4.0.0"],
@@ -3060,7 +3060,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:8.2.2"],
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.0.0"],
             ["commitizen", "npm:4.2.4"],
-            ["concurrently", "npm:6.1.0"],
+            ["concurrently", "npm:6.2.0"],
             ["css-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.2.6"],
             ["cz-conventional-changelog", "npm:3.3.0"],
             ["fontsource-roboto", "npm:4.0.0"],
@@ -5819,10 +5819,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["concurrently", [
-        ["npm:6.1.0", {
-          "packageLocation": "./.yarn/cache/concurrently-npm-6.1.0-0954720a66-daa788a222.zip/node_modules/concurrently/",
+        ["npm:6.2.0", {
+          "packageLocation": "./.yarn/cache/concurrently-npm-6.2.0-e0df78f085-e75f311dc7.zip/node_modules/concurrently/",
           "packageDependencies": [
-            ["concurrently", "npm:6.1.0"],
+            ["concurrently", "npm:6.2.0"],
             ["chalk", "npm:4.1.1"],
             ["date-fns", "npm:2.21.3"],
             ["lodash", "npm:4.17.21"],
