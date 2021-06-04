@@ -76,7 +76,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-hot-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.13.0"],
             ["react-test-renderer", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:17.0.2"],
             ["rimraf", "npm:3.0.2"],
-            ["slash", "npm:3.0.0"],
+            ["slash", "npm:4.0.0"],
             ["style-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:2.0.0"],
             ["ts-jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:27.0.2"],
             ["ts-node", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.0.0"],
@@ -3196,7 +3196,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-hot-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.13.0"],
             ["react-test-renderer", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:17.0.2"],
             ["rimraf", "npm:3.0.2"],
-            ["slash", "npm:3.0.0"],
+            ["slash", "npm:4.0.0"],
             ["style-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:2.0.0"],
             ["ts-jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:27.0.2"],
             ["ts-node", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.0.0"],
@@ -12787,6 +12787,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/slash-npm-3.0.0-b87de2279a-fc3e8597d8.zip/node_modules/slash/",
           "packageDependencies": [
             ["slash", "npm:3.0.0"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:4.0.0", {
+          "packageLocation": "./.yarn/cache/slash-npm-4.0.0-ce4bbc4a80-714b10473d.zip/node_modules/slash/",
+          "packageDependencies": [
+            ["slash", "npm:4.0.0"]
           ],
           "linkType": "HARD",
         }]
