@@ -1923,7 +1923,7 @@ __metadata:
     html-webpack-plugin: 5.3.1
     husky: 6.0.0
     jest: 27.0.1
-    jest-runner: ^27.0.3
+    jest-runner: 27.0.3
     lint-staged: 11.0.0
     prettier: 2.3.0
     process: 0.11.10
@@ -1932,7 +1932,7 @@ __metadata:
     react-hot-loader: 4.13.0
     react-test-renderer: 17.0.2
     rimraf: 3.0.2
-    slash: 3
+    slash: 3.0.0
     style-loader: 2.0.0
     ts-jest: 27.0.1
     ts-node: 10.0.0
@@ -7277,6 +7277,34 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
+"jest-runner@npm:27.0.3":
+  version: 27.0.3
+  resolution: "jest-runner@npm:27.0.3"
+  dependencies:
+    "@jest/console": ^27.0.2
+    "@jest/environment": ^27.0.3
+    "@jest/test-result": ^27.0.2
+    "@jest/transform": ^27.0.2
+    "@jest/types": ^27.0.2
+    "@types/node": "*"
+    chalk: ^4.0.0
+    emittery: ^0.8.1
+    exit: ^0.1.2
+    graceful-fs: ^4.2.4
+    jest-docblock: ^27.0.1
+    jest-haste-map: ^27.0.2
+    jest-leak-detector: ^27.0.2
+    jest-message-util: ^27.0.2
+    jest-resolve: ^27.0.2
+    jest-runtime: ^27.0.3
+    jest-util: ^27.0.2
+    jest-worker: ^27.0.2
+    source-map-support: ^0.5.6
+    throat: ^6.0.1
+  checksum: 3ae5186fd6b6bedf4fbc62196e99ad98036875f18c46a60fc75b06c05f6ee5b5739bf53a398b6424084e3f7ddb1b4acbd9e0633032de04399c957280396cebb4
+  languageName: node
+  linkType: hard
+
 "jest-runner@npm:^27.0.1":
   version: 27.0.1
   resolution: "jest-runner@npm:27.0.1"
@@ -7303,34 +7331,6 @@ fsevents@^1.2.7:
     source-map-support: ^0.5.6
     throat: ^6.0.1
   checksum: d995589a37cdbb82cbdd956927193f76800b2c744cc4908dae475882d83a34b13c8d2e8af639ca153414582d36371c7884a773e937fcbb915bc30924d73e836b
-  languageName: node
-  linkType: hard
-
-"jest-runner@npm:^27.0.3":
-  version: 27.0.3
-  resolution: "jest-runner@npm:27.0.3"
-  dependencies:
-    "@jest/console": ^27.0.2
-    "@jest/environment": ^27.0.3
-    "@jest/test-result": ^27.0.2
-    "@jest/transform": ^27.0.2
-    "@jest/types": ^27.0.2
-    "@types/node": "*"
-    chalk: ^4.0.0
-    emittery: ^0.8.1
-    exit: ^0.1.2
-    graceful-fs: ^4.2.4
-    jest-docblock: ^27.0.1
-    jest-haste-map: ^27.0.2
-    jest-leak-detector: ^27.0.2
-    jest-message-util: ^27.0.2
-    jest-resolve: ^27.0.2
-    jest-runtime: ^27.0.3
-    jest-util: ^27.0.2
-    jest-worker: ^27.0.2
-    source-map-support: ^0.5.6
-    throat: ^6.0.1
-  checksum: 3ae5186fd6b6bedf4fbc62196e99ad98036875f18c46a60fc75b06c05f6ee5b5739bf53a398b6424084e3f7ddb1b4acbd9e0633032de04399c957280396cebb4
   languageName: node
   linkType: hard
 
@@ -10366,7 +10366,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"slash@npm:3, slash@npm:^3.0.0":
+"slash@npm:3.0.0, slash@npm:^3.0.0":
   version: 3.0.0
   resolution: "slash@npm:3.0.0"
   checksum: fc3e8597d822ee3ba6cd76e9b001cd5be315f9b81c3a03a29bb611c003d1484e3b29a9e7bc020298fa669b585ff7c9268f44513f60c186216eb6af3111a3e838
