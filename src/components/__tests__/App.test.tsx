@@ -6,7 +6,7 @@ jest.mock('../Hello')
 
 test('App', () => {
   const component = render(<App />)
-  expect(component.container).toMatchInlineSnapshot(`
+  expect(component.container).toMatchInlineSnapshot(/*jsx*/ `
     <div>
       <div
         class="MuiContainer-root MuiContainer-maxWidthLg"

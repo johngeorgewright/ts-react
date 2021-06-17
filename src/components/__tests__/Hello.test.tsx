@@ -4,7 +4,7 @@ import Hello from '../Hello'
 
 test('hello world', () => {
   const component = render(<Hello />)
-  expect(component.container).toMatchInlineSnapshot(`
+  expect(component.container).toMatchInlineSnapshot(/*jsx*/ `
     <div>
       <h1
         class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom"
