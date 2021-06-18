@@ -2149,7 +2149,7 @@ __metadata:
     "@types/jest": 26.0.23
     "@types/node": 14.17.3
     "@types/react": 17.0.11
-    "@types/react-dom": 17.0.7
+    "@types/react-dom": 17.0.8
     "@types/webpack-dev-server": 3.11.4
     assert-never: 1.2.1
     babel-loader: 8.2.2
@@ -2177,7 +2177,7 @@ __metadata:
     ts-jest: 27.0.3
     ts-node: 10.0.0
     tslib: 2.3.0
-    typescript: 4.3.3
+    typescript: 4.3.4
     webpack: 5.39.1
     webpack-cli: 4.7.2
     webpack-dev-server: 3.11.2
@@ -3152,12 +3152,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:17.0.7":
-  version: 17.0.7
-  resolution: "@types/react-dom@npm:17.0.7"
+"@types/react-dom@npm:17.0.8":
+  version: 17.0.8
+  resolution: "@types/react-dom@npm:17.0.8"
   dependencies:
     "@types/react": "*"
-  checksum: 97df2088b5e1e1d3c6bf2ff6e4f8536bcd788cc7baeb49d912184923e4bee63d155d9821f15c4f36a6b89afe043f892d20015063a39a67aebf14dbc8998a1ccf
+  checksum: 3859a6e06ec4545319c159ea71814beb3822801f0d4c41219855258557722cbcec8b5fba84551489169ec228b8817b4c05a8ef0dc87eb2bafb4d1431d1af9608
   languageName: node
   linkType: hard
 
@@ -13673,23 +13673,23 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-typescript@4.3.3:
-  version: 4.3.3
-  resolution: "typescript@npm:4.3.3"
+typescript@4.3.4:
+  version: 4.3.4
+  resolution: "typescript@npm:4.3.4"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: a5cd61a84cbf6311840f97584dd098fa5743a23a541dbd41d99e8e95e8589aef62b41effdb7e0a67cc9023aa380468c320526352e3fbb43539e7ba9e2483d026
+  checksum: 9791c5fe98db6cb70ec0efad8d3d2eb957b9643ee600b90bff49267de69768d0d5f59c41a8fd731cfd63df1ccfb2cb25505a2015d7b39ac10ea51f605a058e16
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@4.3.3#builtin<compat/typescript>":
-  version: 4.3.3
-  resolution: "typescript@patch:typescript@npm%3A4.3.3#builtin<compat/typescript>::version=4.3.3&hash=ddfc1b"
+"typescript@patch:typescript@4.3.4#builtin<compat/typescript>":
+  version: 4.3.4
+  resolution: "typescript@patch:typescript@npm%3A4.3.4#builtin<compat/typescript>::version=4.3.4&hash=ddfc1b"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 9fff16e8bd0648af1744cbc722eddef94b9d7e746f257e9b3ceeb5e93d301c1824cf4d851aef80c08f920e2506380808aaed500480d0d39e9a38aad00f8bab68
+  checksum: c8766e84a4f71e925cc059af8286cc7f41819fe821d433b90c83e9b36729cbda7a8e4be3292d8a1433cd717d529c93217d58d173418f43862290b206bd88b284
   languageName: node
   linkType: hard
 
