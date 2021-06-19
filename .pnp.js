@@ -68,7 +68,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["css-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.2.6"],
             ["cz-conventional-changelog", "npm:3.3.0"],
             ["fontsource-roboto", "npm:4.0.0"],
-            ["fork-ts-checker-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.2.10"],
+            ["fork-ts-checker-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.2.12"],
             ["html-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.3.1"],
             ["husky", "npm:6.0.0"],
             ["jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:27.0.4"],
@@ -3647,7 +3647,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["css-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.2.6"],
             ["cz-conventional-changelog", "npm:3.3.0"],
             ["fontsource-roboto", "npm:4.0.0"],
-            ["fork-ts-checker-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.2.10"],
+            ["fork-ts-checker-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.2.12"],
             ["html-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.3.1"],
             ["husky", "npm:6.0.0"],
             ["jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:27.0.4"],
@@ -9102,17 +9102,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["fork-ts-checker-webpack-plugin", [
-        ["npm:6.2.10", {
-          "packageLocation": "./.yarn/cache/fork-ts-checker-webpack-plugin-npm-6.2.10-7da8938c98-2c067e05dd.zip/node_modules/fork-ts-checker-webpack-plugin/",
+        ["npm:6.2.12", {
+          "packageLocation": "./.yarn/cache/fork-ts-checker-webpack-plugin-npm-6.2.12-677bddbccd-ae17519010.zip/node_modules/fork-ts-checker-webpack-plugin/",
           "packageDependencies": [
-            ["fork-ts-checker-webpack-plugin", "npm:6.2.10"]
+            ["fork-ts-checker-webpack-plugin", "npm:6.2.12"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.2.10", {
-          "packageLocation": "./.yarn/$$virtual/fork-ts-checker-webpack-plugin-virtual-5837c0798e/0/cache/fork-ts-checker-webpack-plugin-npm-6.2.10-7da8938c98-2c067e05dd.zip/node_modules/fork-ts-checker-webpack-plugin/",
+        ["virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.2.12", {
+          "packageLocation": "./.yarn/$$virtual/fork-ts-checker-webpack-plugin-virtual-1c56f40f8f/0/cache/fork-ts-checker-webpack-plugin-npm-6.2.12-677bddbccd-ae17519010.zip/node_modules/fork-ts-checker-webpack-plugin/",
           "packageDependencies": [
-            ["fork-ts-checker-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.2.10"],
+            ["fork-ts-checker-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.2.12"],
             ["@babel/code-frame", "npm:7.12.13"],
             ["@types/eslint", null],
             ["@types/json-schema", "npm:7.0.7"],
