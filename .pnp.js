@@ -53,7 +53,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/github", "virtual:8924e8d59805337e7a19e634bdfbbc384686bca15ae190e067207ef959355830a53ae266fea7b44391079976d8b695c352861bddce9f82f95903dbf02b963483#npm:7.2.3"],
             ["@semantic-release/npm", "virtual:8924e8d59805337e7a19e634bdfbbc384686bca15ae190e067207ef959355830a53ae266fea7b44391079976d8b695c352861bddce9f82f95903dbf02b963483#npm:7.1.3"],
             ["@semantic-release/release-notes-generator", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.0.3"],
-            ["@testing-library/react", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:11.2.7"],
+            ["@testing-library/react", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:12.0.0"],
             ["@testing-library/react-hooks", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:7.0.0"],
             ["@types/jest", "npm:26.0.23"],
             ["@types/node", "npm:14.17.4"],
@@ -3639,7 +3639,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/github", "virtual:8924e8d59805337e7a19e634bdfbbc384686bca15ae190e067207ef959355830a53ae266fea7b44391079976d8b695c352861bddce9f82f95903dbf02b963483#npm:7.2.3"],
             ["@semantic-release/npm", "virtual:8924e8d59805337e7a19e634bdfbbc384686bca15ae190e067207ef959355830a53ae266fea7b44391079976d8b695c352861bddce9f82f95903dbf02b963483#npm:7.1.3"],
             ["@semantic-release/release-notes-generator", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.0.3"],
-            ["@testing-library/react", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:11.2.7"],
+            ["@testing-library/react", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:12.0.0"],
             ["@testing-library/react-hooks", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:7.0.0"],
             ["@types/jest", "npm:26.0.23"],
             ["@types/node", "npm:14.17.4"],
@@ -4513,36 +4513,36 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@testing-library/dom", [
-        ["npm:7.31.0", {
-          "packageLocation": "./.yarn/cache/@testing-library-dom-npm-7.31.0-6aeaee08fa-84c4bf5d33.zip/node_modules/@testing-library/dom/",
+        ["npm:8.0.0", {
+          "packageLocation": "./.yarn/cache/@testing-library-dom-npm-8.0.0-297a9d9bef-cd5bcc59c4.zip/node_modules/@testing-library/dom/",
           "packageDependencies": [
-            ["@testing-library/dom", "npm:7.31.0"],
+            ["@testing-library/dom", "npm:8.0.0"],
             ["@babel/code-frame", "npm:7.12.13"],
             ["@babel/runtime", "npm:7.14.0"],
             ["@types/aria-query", "npm:4.2.1"],
             ["aria-query", "npm:4.2.2"],
             ["chalk", "npm:4.1.1"],
-            ["dom-accessibility-api", "npm:0.5.4"],
+            ["dom-accessibility-api", "npm:0.5.6"],
             ["lz-string", "npm:1.4.4"],
-            ["pretty-format", "npm:26.6.2"]
+            ["pretty-format", "npm:27.0.2"]
           ],
           "linkType": "HARD",
         }]
       ]],
       ["@testing-library/react", [
-        ["npm:11.2.7", {
-          "packageLocation": "./.yarn/cache/@testing-library-react-npm-11.2.7-3a0469c756-389c9f3e83.zip/node_modules/@testing-library/react/",
+        ["npm:12.0.0", {
+          "packageLocation": "./.yarn/cache/@testing-library-react-npm-12.0.0-93b24587bc-2b5da0513f.zip/node_modules/@testing-library/react/",
           "packageDependencies": [
-            ["@testing-library/react", "npm:11.2.7"]
+            ["@testing-library/react", "npm:12.0.0"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:11.2.7", {
-          "packageLocation": "./.yarn/$$virtual/@testing-library-react-virtual-c3f369fcfb/0/cache/@testing-library-react-npm-11.2.7-3a0469c756-389c9f3e83.zip/node_modules/@testing-library/react/",
+        ["virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:12.0.0", {
+          "packageLocation": "./.yarn/$$virtual/@testing-library-react-virtual-7f5e22da1c/0/cache/@testing-library-react-npm-12.0.0-93b24587bc-2b5da0513f.zip/node_modules/@testing-library/react/",
           "packageDependencies": [
-            ["@testing-library/react", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:11.2.7"],
+            ["@testing-library/react", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:12.0.0"],
             ["@babel/runtime", "npm:7.14.0"],
-            ["@testing-library/dom", "npm:7.31.0"],
+            ["@testing-library/dom", "npm:8.0.0"],
             ["@types/react", "npm:17.0.11"],
             ["@types/react-dom", "npm:17.0.8"],
             ["react", "npm:17.0.2"],
@@ -8153,10 +8153,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["dom-accessibility-api", [
-        ["npm:0.5.4", {
-          "packageLocation": "./.yarn/cache/dom-accessibility-api-npm-0.5.4-dd3e7035e5-39351d26a3.zip/node_modules/dom-accessibility-api/",
+        ["npm:0.5.6", {
+          "packageLocation": "./.yarn/cache/dom-accessibility-api-npm-0.5.6-0bcdb9d71b-b579681083.zip/node_modules/dom-accessibility-api/",
           "packageDependencies": [
-            ["dom-accessibility-api", "npm:0.5.4"]
+            ["dom-accessibility-api", "npm:0.5.6"]
           ],
           "linkType": "HARD",
         }]
