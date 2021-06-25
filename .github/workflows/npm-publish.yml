@@ -25,6 +25,9 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Install extra semantic release dependencies
+        run: npm install --no-save @semantic-release/git
+
       - name: Release
         uses: codfish/semantic-release-action@v1
         id: semantic
