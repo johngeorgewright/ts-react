@@ -25,25 +25,8 @@ jobs:
       - name: Build
         run: yarn build
 
-      - name: Add extra semantic release depenencies
-        run: yarn add -D @semantic-release/git
-
       - name: Release
-        uses: codfish/semantic-release-action@v1
-        with:
-          plugins: |
-            [
-              "@semantic-release/commit-analyzer", 
-              "@semantic-release/release-notes-generator", 
-              "@semantic-release/npm", 
-              [
-                "@semantic-release/git",
-                {
-                  message: "chore: ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}",
-                },
-              ],
-              "@semantic-release/github"
-            ]
+        run: yarn semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
