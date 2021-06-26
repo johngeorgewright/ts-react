@@ -63,7 +63,7 @@
     "jest": "27.0.5",
     "jest-runner": "27.0.5",
     "lint-staged": "11.0.0",
-    "prettier": "2.3.1",
+    "prettier": "2.3.2",
     "process": "0.11.10",
     "react": "17.0.2",
     "react-dom": "17.0.2",
