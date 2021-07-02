@@ -59,7 +59,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:14.17.4"],
             ["@types/react", "npm:17.0.13"],
             ["@types/react-dom", "npm:17.0.8"],
-            ["@types/webpack-dev-server", "npm:3.11.4"],
+            ["@types/webpack-dev-server", "npm:3.11.5"],
             ["assert-never", "npm:1.2.1"],
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:8.2.2"],
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0-alpha.0"],
@@ -3657,7 +3657,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:14.17.4"],
             ["@types/react", "npm:17.0.13"],
             ["@types/react-dom", "npm:17.0.8"],
-            ["@types/webpack-dev-server", "npm:3.11.4"],
+            ["@types/webpack-dev-server", "npm:3.11.5"],
             ["assert-never", "npm:1.2.1"],
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:8.2.2"],
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0-alpha.0"],
@@ -5096,10 +5096,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/webpack-dev-server", [
-        ["npm:3.11.4", {
-          "packageLocation": "./.yarn/cache/@types-webpack-dev-server-npm-3.11.4-310958e568-1c52117ff7.zip/node_modules/@types/webpack-dev-server/",
+        ["npm:3.11.5", {
+          "packageLocation": "./.yarn/cache/@types-webpack-dev-server-npm-3.11.5-2036128373-ac24ac3481.zip/node_modules/@types/webpack-dev-server/",
           "packageDependencies": [
-            ["@types/webpack-dev-server", "npm:3.11.4"],
+            ["@types/webpack-dev-server", "npm:3.11.5"],
             ["@types/connect-history-api-fallback", "npm:1.3.4"],
             ["@types/express", "npm:4.17.11"],
             ["@types/serve-static", "npm:1.13.9"],
