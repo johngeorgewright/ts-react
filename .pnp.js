@@ -70,7 +70,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fontsource-roboto", "npm:4.0.0"],
             ["fork-ts-checker-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.2.12"],
             ["html-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.3.2"],
-            ["husky", "npm:7.0.0"],
+            ["husky", "npm:7.0.1"],
             ["jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:27.0.6"],
             ["jest-runner", "npm:27.0.6"],
             ["lint-staged", "npm:11.0.0"],
@@ -3668,7 +3668,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fontsource-roboto", "npm:4.0.0"],
             ["fork-ts-checker-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.2.12"],
             ["html-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.3.2"],
-            ["husky", "npm:7.0.0"],
+            ["husky", "npm:7.0.1"],
             ["jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:27.0.6"],
             ["jest-runner", "npm:27.0.6"],
             ["lint-staged", "npm:11.0.0"],
@@ -10035,10 +10035,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["husky", [
-        ["npm:7.0.0", {
-          "packageLocation": "./.yarn/cache/husky-npm-7.0.0-f5b54b1293-56252eeb45.zip/node_modules/husky/",
+        ["npm:7.0.1", {
+          "packageLocation": "./.yarn/cache/husky-npm-7.0.1-b59747cd86-1f6d87cab4.zip/node_modules/husky/",
           "packageDependencies": [
-            ["husky", "npm:7.0.0"]
+            ["husky", "npm:7.0.1"]
           ],
           "linkType": "HARD",
         }]
