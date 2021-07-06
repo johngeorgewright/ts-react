@@ -2157,7 +2157,7 @@ __metadata:
     "@commitlint/config-conventional": 12.1.4
     "@hot-loader/react-dom": 17.0.1
     "@johngw/react-component-mock": 2.1.2
-    "@material-ui/core": 4.11.4
+    "@material-ui/core": 4.12.0
     "@material-ui/icons": 4.11.2
     "@semantic-release/commit-analyzer": 8.0.1
     "@semantic-release/git": 9.0.0
@@ -2215,13 +2215,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@material-ui/core@npm:4.11.4":
-  version: 4.11.4
-  resolution: "@material-ui/core@npm:4.11.4"
+"@material-ui/core@npm:4.12.0":
+  version: 4.12.0
+  resolution: "@material-ui/core@npm:4.12.0"
   dependencies:
     "@babel/runtime": ^7.4.4
     "@material-ui/styles": ^4.11.4
-    "@material-ui/system": ^4.11.3
+    "@material-ui/system": ^4.12.0
     "@material-ui/types": 5.1.0
     "@material-ui/utils": ^4.11.2
     "@types/react-transition-group": ^4.2.0
@@ -2238,7 +2238,7 @@ __metadata:
   peerDependenciesMeta:
     "@types/react":
       optional: true
-  checksum: 98c5e25c33e6afa51f1668ffa055ae5aee007a96e69b48f7f6d7df4a14d1bb6a3524eaacab282c862ba9dabdcea75d4d8df26d4e805ddf95a3e7697375b61b42
+  checksum: d9fd3cc3718291a60ebd8741aaa0bc4803032108f9ebd60e44f17c2eb70892ead26d5a957732107a4dfd62bf88a54e63430ee4ac5fd21c3e7b49017cd7365198
   languageName: node
   linkType: hard
 
@@ -2290,9 +2290,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@material-ui/system@npm:^4.11.3":
-  version: 4.11.3
-  resolution: "@material-ui/system@npm:4.11.3"
+"@material-ui/system@npm:^4.12.0":
+  version: 4.12.0
+  resolution: "@material-ui/system@npm:4.12.0"
   dependencies:
     "@babel/runtime": ^7.4.4
     "@material-ui/utils": ^4.11.2
@@ -2305,7 +2305,7 @@ __metadata:
   peerDependenciesMeta:
     "@types/react":
       optional: true
-  checksum: f00f6419820893110b19d9af3ee7f4410d3de321850f4b6933aa9540ca5e27a42e4fc58a1c986cb22bbaa2b7538ce3fb49275d0b2a8285dcfb72b2877be93541
+  checksum: 009489e611b1afed4f821bbb47463142b3f18169035d763b7592edee13d358ea748f1ee14bf748f2353a7628f5daea709d957d17b22cf181ba7ed704bbbd97a1
   languageName: node
   linkType: hard
 
