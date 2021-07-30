@@ -2227,7 +2227,7 @@ __metadata:
     "@commitlint/config-conventional": 12.1.4
     "@hot-loader/react-dom": 17.0.1
     "@johngw/react-component-mock": 2.1.2
-    "@material-ui/core": 4.12.2
+    "@material-ui/core": 4.12.3
     "@material-ui/icons": 4.11.2
     "@semantic-release/commit-analyzer": 8.0.1
     "@semantic-release/git": 9.0.0
@@ -2285,9 +2285,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@material-ui/core@npm:4.12.2":
-  version: 4.12.2
-  resolution: "@material-ui/core@npm:4.12.2"
+"@material-ui/core@npm:4.12.3":
+  version: 4.12.3
+  resolution: "@material-ui/core@npm:4.12.3"
   dependencies:
     "@babel/runtime": ^7.4.4
     "@material-ui/styles": ^4.11.4
@@ -2308,7 +2308,7 @@ __metadata:
   peerDependenciesMeta:
     "@types/react":
       optional: true
-  checksum: 31e8c28a4c3eebe2fd696b8998fd925c44e9b1c29e67bad6426ab10377f895d77dad0b8c053dd4024668dc5ab53866353156fa57a4eb667619a06390a0a015d1
+  checksum: eb193e1d7ece9c9f0221b9f6fd08ade166c8c9c9ad51f7823f1aeba6f159759d8727f827443d4df188e186d6dcf575288c277ca9541dc603c1f331692028c398
   languageName: node
   linkType: hard
 
