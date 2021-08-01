@@ -2317,7 +2317,7 @@ __metadata:
     css-loader: 6.2.0
     cz-conventional-changelog: 3.3.0
     fontsource-roboto: 4.0.0
-    fork-ts-checker-webpack-plugin: 6.2.13
+    fork-ts-checker-webpack-plugin: 6.3.1
     html-webpack-plugin: 5.3.2
     husky: 7.0.1
     jest: 27.0.6
@@ -6834,9 +6834,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fork-ts-checker-webpack-plugin@npm:6.2.13":
-  version: 6.2.13
-  resolution: "fork-ts-checker-webpack-plugin@npm:6.2.13"
+"fork-ts-checker-webpack-plugin@npm:6.3.1":
+  version: 6.3.1
+  resolution: "fork-ts-checker-webpack-plugin@npm:6.3.1"
   dependencies:
     "@babel/code-frame": ^7.8.3
     "@types/json-schema": ^7.0.5
@@ -6851,7 +6851,7 @@ __metadata:
     schema-utils: 2.7.0
     semver: ^7.3.2
     tapable: ^1.0.0
-  checksum: e7e9551fc4d28c803771d3193634e28a8110b53e8128f9c0dd451b93ca2001bd3055aa0f19bb2d85b88235f0431ff75358bef20148fa9aa08316989af87821a0
+  checksum: 3dcce2fad5eb5988d52b374b24cfcf750c7afda06ada60265bd788cdfc202238d046d8b6911733a7504c675f338c3bd965e373e6fc1ca9556e2f56827ce7edb3
   languageName: node
   linkType: hard
 
