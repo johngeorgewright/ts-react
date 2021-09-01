@@ -2415,7 +2415,7 @@ __metadata:
     "@types/webpack-dev-server": 3.11.6
     assert-never: 1.2.1
     babel-loader: 8.2.2
-    clean-webpack-plugin: 4.0.0-alpha.0
+    clean-webpack-plugin: 4.0.0
     commitizen: 4.2.4
     concurrently: 6.2.1
     css-loader: 6.2.0
@@ -4838,14 +4838,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"clean-webpack-plugin@npm:4.0.0-alpha.0":
-  version: 4.0.0-alpha.0
-  resolution: "clean-webpack-plugin@npm:4.0.0-alpha.0"
+"clean-webpack-plugin@npm:4.0.0":
+  version: 4.0.0
+  resolution: "clean-webpack-plugin@npm:4.0.0"
   dependencies:
     del: ^4.1.1
   peerDependencies:
     webpack: ">=4.0.0 <6.0.0"
-  checksum: 24a671e2df6d831b8badcb1491b6e38e1f92a303a88d645084839ef8cdd577474f5da5ca18f1a5cf1382dfb7ba07b25bc721440bbe42bf1433313ce9885c6c1a
+  checksum: 2538618ae1a846deef7f52d50711911d8a43205f1dc2ea1719383098edd332a096dcfd69298ea31a65159c72825c5d7865547c2ac14f064dd872405a4ae52013
   languageName: node
   linkType: hard
 
