@@ -54,7 +54,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/react", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:12.1.0"],
             ["@testing-library/react-hooks", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:7.0.2"],
             ["@types/jest", "npm:27.0.1"],
-            ["@types/node", "npm:14.17.16"],
+            ["@types/node", "npm:14.17.17"],
             ["@types/react", "npm:17.0.21"],
             ["@types/react-dom", "npm:17.0.9"],
             ["@types/webpack-dev-server", "npm:4.1.0"],
@@ -3154,7 +3154,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/react", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:12.1.0"],
             ["@testing-library/react-hooks", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:7.0.2"],
             ["@types/jest", "npm:27.0.1"],
-            ["@types/node", "npm:14.17.16"],
+            ["@types/node", "npm:14.17.17"],
             ["@types/react", "npm:17.0.21"],
             ["@types/react-dom", "npm:17.0.9"],
             ["@types/webpack-dev-server", "npm:4.1.0"],
@@ -4396,10 +4396,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/node", [
-        ["npm:14.17.16", {
-          "packageLocation": "./.yarn/cache/@types-node-npm-14.17.16-83a9ad6bd4-257e85d0c8.zip/node_modules/@types/node/",
+        ["npm:14.17.17", {
+          "packageLocation": "./.yarn/cache/@types-node-npm-14.17.17-e0328ad251-ec17a5662e.zip/node_modules/@types/node/",
           "packageDependencies": [
-            ["@types/node", "npm:14.17.16"]
+            ["@types/node", "npm:14.17.17"]
           ],
           "linkType": "HARD",
         }],
@@ -15200,7 +15200,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@tsconfig/node12", "npm:1.0.9"],
             ["@tsconfig/node14", "npm:1.0.1"],
             ["@tsconfig/node16", "npm:1.0.2"],
-            ["@types/node", "npm:14.17.16"],
+            ["@types/node", "npm:14.17.17"],
             ["@types/swc__core", null],
             ["@types/swc__wasm", null],
             ["@types/typescript", null],
