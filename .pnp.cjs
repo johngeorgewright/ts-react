@@ -80,7 +80,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-test-renderer", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:17.0.2"],
             ["rimraf", "npm:3.0.2"],
             ["semantic-release", "npm:18.0.0"],
-            ["style-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.2.1"],
+            ["style-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.3.0"],
             ["ts-jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:27.0.5"],
             ["ts-node", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.2.1"],
             ["tslib", "npm:2.3.1"],
@@ -3180,7 +3180,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-test-renderer", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:17.0.2"],
             ["rimraf", "npm:3.0.2"],
             ["semantic-release", "npm:18.0.0"],
-            ["style-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.2.1"],
+            ["style-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.3.0"],
             ["ts-jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:27.0.5"],
             ["ts-node", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.2.1"],
             ["tslib", "npm:2.3.1"],
@@ -14714,17 +14714,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["style-loader", [
-        ["npm:3.2.1", {
-          "packageLocation": "./.yarn/cache/style-loader-npm-3.2.1-d7e80dafb3-10e47c29f4.zip/node_modules/style-loader/",
+        ["npm:3.3.0", {
+          "packageLocation": "./.yarn/cache/style-loader-npm-3.3.0-1314a3ca60-edad553a1a.zip/node_modules/style-loader/",
           "packageDependencies": [
-            ["style-loader", "npm:3.2.1"]
+            ["style-loader", "npm:3.3.0"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.2.1", {
-          "packageLocation": "./.yarn/__virtual__/style-loader-virtual-5467b5ef80/0/cache/style-loader-npm-3.2.1-d7e80dafb3-10e47c29f4.zip/node_modules/style-loader/",
+        ["virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.3.0", {
+          "packageLocation": "./.yarn/__virtual__/style-loader-virtual-b094e1b501/0/cache/style-loader-npm-3.3.0-1314a3ca60-edad553a1a.zip/node_modules/style-loader/",
           "packageDependencies": [
-            ["style-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.2.1"],
+            ["style-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.3.0"],
             ["@types/webpack", null],
             ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.53.0"]
           ],
