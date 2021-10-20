@@ -1982,7 +1982,7 @@ __metadata:
     "@types/jest": 27.0.2
     "@types/node": 14.17.27
     "@types/react": 17.0.30
-    "@types/react-dom": 17.0.9
+    "@types/react-dom": 17.0.10
     "@types/webpack-dev-server": 4.3.1
     assert-never: 1.2.1
     babel-loader: 8.2.2
@@ -3059,7 +3059,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:17.0.9, @types/react-dom@npm:>=16.9.0":
+"@types/react-dom@npm:17.0.10":
+  version: 17.0.10
+  resolution: "@types/react-dom@npm:17.0.10"
+  dependencies:
+    "@types/react": "*"
+  checksum: cc7d8d5b77ee2f3b989c107abd8ec0f2460ba1b1ee6e6d637124e1939594b5619fa4166ef0ea7632a69b68358e0b71aa618de446ccc416dcc0017175549da601
+  languageName: node
+  linkType: hard
+
+"@types/react-dom@npm:>=16.9.0":
   version: 17.0.9
   resolution: "@types/react-dom@npm:17.0.9"
   dependencies:
