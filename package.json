@@ -50,7 +50,7 @@
     "@types/react-dom": "17.0.10",
     "@types/webpack-dev-server": "4.3.1",
     "assert-never": "1.2.1",
-    "babel-loader": "8.2.2",
+    "babel-loader": "8.2.3",
     "clean-webpack-plugin": "4.0.0",
     "commitizen": "4.2.4",
     "concurrently": "6.3.0",
