@@ -1848,7 +1848,7 @@ __metadata:
     css-loader: 6.4.0
     cz-conventional-changelog: 3.3.0
     fontsource-roboto: 4.0.0
-    fork-ts-checker-webpack-plugin: 6.3.6
+    fork-ts-checker-webpack-plugin: 6.4.0
     html-webpack-plugin: 5.4.0
     husky: 7.0.2
     jest: 27.3.1
@@ -5926,9 +5926,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fork-ts-checker-webpack-plugin@npm:6.3.6":
-  version: 6.3.6
-  resolution: "fork-ts-checker-webpack-plugin@npm:6.3.6"
+"fork-ts-checker-webpack-plugin@npm:6.4.0":
+  version: 6.4.0
+  resolution: "fork-ts-checker-webpack-plugin@npm:6.4.0"
   dependencies:
     "@babel/code-frame": ^7.8.3
     "@types/json-schema": ^7.0.5
@@ -5953,7 +5953,7 @@ __metadata:
       optional: true
     vue-template-compiler:
       optional: true
-  checksum: bf42e320c2318172a6b742a32766f735bd015c1aa4738fab86d7d2b8677ab80809a7d2845c60c2e99416f9f4cf86562777b3a04889a6277d82f6282fa1833288
+  checksum: feba541453d4bdeaa743388541e125204789369920909f0152b11cfd1801a75fb2f6c708eae0174c9810ab4334fa21dea761037629440a647046581e7df62b8c
   languageName: node
   linkType: hard
 
