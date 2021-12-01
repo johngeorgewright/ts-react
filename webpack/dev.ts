@@ -7,7 +7,7 @@ export default merge(common, serve, {
   entry: {
     'ts-react': ['react-hot-loader/patch', './src/index.tsx'],
   },
-  mode: 'development',
+  mode: process.env.NODE_ENV === 'production' ? 'production' : 'development',
   plugins: [
     new HtmlWebpackPlugin({
       template: './src/index.html',
