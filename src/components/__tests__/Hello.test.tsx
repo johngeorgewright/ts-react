@@ -4,26 +4,22 @@ import Hello from '../Hello'
 
 test('hello world', () => {
   const component = render(<Hello />)
-  expect(component.container).toMatchInlineSnapshot(/*jsx*/ `
+  expect(component.container).toMatchInlineSnapshot(`
     <div>
       <h1
-        class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom"
+        class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-1mktp8m-MuiTypography-root"
       >
         @johngeorgewright/ts-react
       </h1>
       <button
-        class="MuiButtonBase-root MuiButton-root MuiButton-contained"
+        class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-sghohy-MuiButtonBase-root-MuiButton-root"
         tabindex="0"
         type="button"
       >
+        Morning
+         World
         <span
-          class="MuiButton-label"
-        >
-          Morning
-           World
-        </span>
-        <span
-          class="MuiTouchRipple-root"
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
         />
       </button>
     </div>

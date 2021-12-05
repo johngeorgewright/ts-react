@@ -1,5 +1,5 @@
 import React from 'react'
-import { CssBaseline, Container } from '@material-ui/core'
+import { CssBaseline, Container } from '@mui/material'
 import Hello from './Hello'
 
 export default function App() {

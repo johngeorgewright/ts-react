@@ -1,5 +1,5 @@
 import React from 'react'
-import { Typography, Button } from '@material-ui/core'
+import { Typography, Button } from '@mui/material'
 import assertNever from 'assert-never'
 import useCycle from '../hooks/useCycle'
 
@@ -27,11 +27,11 @@ export default function Hello() {
 function color(state: State) {
   switch (state) {
     case State.morning:
-      return 'default'
-    case State.afternoon:
       return 'primary'
-    case State.evening:
+    case State.afternoon:
       return 'secondary'
+    case State.evening:
+      return 'error'
     default:
       return assertNever(state)
   }
