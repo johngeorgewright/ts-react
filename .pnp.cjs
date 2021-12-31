@@ -59,7 +59,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:16.11.17"],
             ["@types/react", "npm:17.0.38"],
             ["@types/react-dom", "npm:17.0.11"],
-            ["@types/webpack-dev-server", "npm:4.5.0"],
+            ["@types/webpack-dev-server", "npm:4.5.1"],
             ["assert-never", "npm:1.2.1"],
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:8.2.3"],
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0"],
@@ -3995,7 +3995,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:16.11.17"],
             ["@types/react", "npm:17.0.38"],
             ["@types/react-dom", "npm:17.0.11"],
-            ["@types/webpack-dev-server", "npm:4.5.0"],
+            ["@types/webpack-dev-server", "npm:4.5.1"],
             ["assert-never", "npm:1.2.1"],
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:8.2.3"],
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0"],
@@ -5642,10 +5642,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/webpack-dev-server", [
-        ["npm:4.5.0", {
-          "packageLocation": "./.yarn/cache/@types-webpack-dev-server-npm-4.5.0-d1cbf244c6-3d4c4efba2.zip/node_modules/@types/webpack-dev-server/",
+        ["npm:4.5.1", {
+          "packageLocation": "./.yarn/cache/@types-webpack-dev-server-npm-4.5.1-dd35114f2c-99066055e9.zip/node_modules/@types/webpack-dev-server/",
           "packageDependencies": [
-            ["@types/webpack-dev-server", "npm:4.5.0"],
+            ["@types/webpack-dev-server", "npm:4.5.1"],
             ["@types/bonjour", "npm:3.5.9"],
             ["@types/connect-history-api-fallback", "npm:1.3.5"],
             ["@types/express", "npm:4.17.13"],
@@ -5921,7 +5921,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@webpack-cli/serve", "virtual:42afbe2103e4136df92ff66e85ba729c91dfaec50189a3c3ebae9f99079dccf54e59cfbbe5cc540ee5c22f73572a11d5e8a4984e37d9b38d1c46ac120acdbf3e#npm:1.6.0"],
             ["@types/webpack-cli", null],
-            ["@types/webpack-dev-server", "npm:4.5.0"],
+            ["@types/webpack-dev-server", "npm:4.5.1"],
             ["webpack-cli", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.9.1"],
             ["webpack-dev-server", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.7.2"]
           ],
@@ -17110,7 +17110,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/webpack-bundle-analyzer", null],
             ["@types/webpack-cli__generators", null],
             ["@types/webpack-cli__migrate", null],
-            ["@types/webpack-dev-server", "npm:4.5.0"],
+            ["@types/webpack-dev-server", "npm:4.5.1"],
             ["@webpack-cli/configtest", "virtual:42afbe2103e4136df92ff66e85ba729c91dfaec50189a3c3ebae9f99079dccf54e59cfbbe5cc540ee5c22f73572a11d5e8a4984e37d9b38d1c46ac120acdbf3e#npm:1.1.0"],
             ["@webpack-cli/generators", null],
             ["@webpack-cli/info", "virtual:42afbe2103e4136df92ff66e85ba729c91dfaec50189a3c3ebae9f99079dccf54e59cfbbe5cc540ee5c22f73572a11d5e8a4984e37d9b38d1c46ac120acdbf3e#npm:1.4.0"],
