@@ -1,9 +1,5 @@
-import { Configuration as WebpackConfiguration } from 'webpack'
-import { Configuration as WebpackDevServerConfiguration } from 'webpack-dev-server'
-
-interface Configuration extends WebpackConfiguration {
-  devServer?: WebpackDevServerConfiguration
-}
+import { Configuration } from 'webpack'
+import 'webpack-dev-server'
 
 const config: Configuration = {
   devServer: {
