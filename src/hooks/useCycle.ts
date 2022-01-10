@@ -3,7 +3,7 @@ import { useCallback, useState } from 'react'
 export default function useCycle<T>(
   stack: T[],
   initial: number = 0
-): [T, () => void, () => void] {
+): [state: T, next: () => void, prev: () => void] {
   const [index, setIndex] = useState(initial)
 
   const next = useCallback(
