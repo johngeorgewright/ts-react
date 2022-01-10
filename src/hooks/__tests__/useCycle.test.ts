@@ -9,26 +9,26 @@ test('initial value', () => {
 test('cycling next', () => {
   const { result } = renderHook(() => useCycle([1, 2, 3, 4]))
   expect(getState(result)).toBe(1)
-  act(() => next(result))
+  next(result)
   expect(getState(result)).toBe(2)
-  act(() => next(result))
+  next(result)
   expect(getState(result)).toBe(3)
-  act(() => next(result))
+  next(result)
   expect(getState(result)).toBe(4)
-  act(() => next(result))
+  next(result)
   expect(getState(result)).toBe(1)
 })
 
 test('cycling previous', () => {
   const { result } = renderHook(() => useCycle([1, 2, 3, 4]))
   expect(getState(result)).toBe(1)
-  act(() => prev(result))
+  prev(result)
   expect(getState(result)).toBe(4)
-  act(() => prev(result))
+  prev(result)
   expect(getState(result)).toBe(3)
-  act(() => prev(result))
+  prev(result)
   expect(getState(result)).toBe(2)
-  act(() => prev(result))
+  prev(result)
   expect(getState(result)).toBe(1)
 })
 
@@ -41,9 +41,9 @@ function getState(cycleResult: CycleResult) {
 }
 
 function next(cycleResult: CycleResult) {
-  return cycleResult.current[1]()
+  act(() => cycleResult.current[1]())
 }
 
 function prev(cycleResult: CycleResult) {
-  return cycleResult.current[2]()
+  act(() => cycleResult.current[2]())
 }
