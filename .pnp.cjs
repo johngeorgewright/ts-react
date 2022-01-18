@@ -73,7 +73,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["husky", "npm:7.0.4"],
             ["jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:27.4.7"],
             ["jest-runner", "npm:27.4.6"],
-            ["lint-staged", "npm:12.1.7"],
+            ["lint-staged", "npm:12.2.0"],
             ["prettier", "npm:2.5.1"],
             ["process", "npm:0.11.10"],
             ["react", "npm:17.0.2"],
@@ -4068,7 +4068,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["husky", "npm:7.0.4"],
             ["jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:27.4.7"],
             ["jest-runner", "npm:27.4.6"],
-            ["lint-staged", "npm:12.1.7"],
+            ["lint-staged", "npm:12.2.0"],
             ["prettier", "npm:2.5.1"],
             ["process", "npm:0.11.10"],
             ["react", "npm:17.0.2"],
@@ -8223,10 +8223,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["virtual:4af93b6869655aa70166e177a7f97b0004bce8774973e0e76c86b879502df9cd6bd281d463634053e468ec037e8a62a13ef3cfa8d6a1d2ce6528ebf57b65b655#npm:4.3.3", {
-          "packageLocation": "./.yarn/__virtual__/debug-virtual-3742a31977/0/cache/debug-npm-4.3.3-710fd4cc7f-14472d56fe.zip/node_modules/debug/",
+        ["virtual:6274ff3dc52c13517ae73a22a5615bb972e27402e56690617dc1d0148d64061f0e1eff4efc81230c98fc019de1351a01e50662f83a125e126fb623067286bda6#npm:4.3.3", {
+          "packageLocation": "./.yarn/__virtual__/debug-virtual-9f9b112867/0/cache/debug-npm-4.3.3-710fd4cc7f-14472d56fe.zip/node_modules/debug/",
           "packageDependencies": [
-            ["debug", "virtual:4af93b6869655aa70166e177a7f97b0004bce8774973e0e76c86b879502df9cd6bd281d463634053e468ec037e8a62a13ef3cfa8d6a1d2ce6528ebf57b65b655#npm:4.3.3"],
+            ["debug", "virtual:6274ff3dc52c13517ae73a22a5615bb972e27402e56690617dc1d0148d64061f0e1eff4efc81230c98fc019de1351a01e50662f83a125e126fb623067286bda6#npm:4.3.3"],
             ["@types/supports-color", null],
             ["ms", "npm:2.1.2"],
             ["supports-color", "npm:9.2.1"]
@@ -12120,17 +12120,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["lint-staged", [
-        ["npm:12.1.7", {
-          "packageLocation": "./.yarn/cache/lint-staged-npm-12.1.7-4af93b6869-3d0757706c.zip/node_modules/lint-staged/",
+        ["npm:12.2.0", {
+          "packageLocation": "./.yarn/cache/lint-staged-npm-12.2.0-6274ff3dc5-940cb0f1d5.zip/node_modules/lint-staged/",
           "packageDependencies": [
-            ["lint-staged", "npm:12.1.7"],
+            ["lint-staged", "npm:12.2.0"],
             ["cli-truncate", "npm:3.1.0"],
             ["colorette", "npm:2.0.16"],
             ["commander", "npm:8.3.0"],
-            ["debug", "virtual:4af93b6869655aa70166e177a7f97b0004bce8774973e0e76c86b879502df9cd6bd281d463634053e468ec037e8a62a13ef3cfa8d6a1d2ce6528ebf57b65b655#npm:4.3.3"],
+            ["debug", "virtual:6274ff3dc52c13517ae73a22a5615bb972e27402e56690617dc1d0148d64061f0e1eff4efc81230c98fc019de1351a01e50662f83a125e126fb623067286bda6#npm:4.3.3"],
             ["execa", "npm:5.1.1"],
             ["lilconfig", "npm:2.0.4"],
-            ["listr2", "virtual:4af93b6869655aa70166e177a7f97b0004bce8774973e0e76c86b879502df9cd6bd281d463634053e468ec037e8a62a13ef3cfa8d6a1d2ce6528ebf57b65b655#npm:3.13.5"],
+            ["listr2", "virtual:6274ff3dc52c13517ae73a22a5615bb972e27402e56690617dc1d0148d64061f0e1eff4efc81230c98fc019de1351a01e50662f83a125e126fb623067286bda6#npm:3.13.5"],
             ["micromatch", "npm:4.0.4"],
             ["normalize-path", "npm:3.0.0"],
             ["object-inspect", "npm:1.12.0"],
@@ -12149,10 +12149,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:4af93b6869655aa70166e177a7f97b0004bce8774973e0e76c86b879502df9cd6bd281d463634053e468ec037e8a62a13ef3cfa8d6a1d2ce6528ebf57b65b655#npm:3.13.5", {
-          "packageLocation": "./.yarn/__virtual__/listr2-virtual-adba8fdc75/0/cache/listr2-npm-3.13.5-1d724f8ac3-c20203060b.zip/node_modules/listr2/",
+        ["virtual:6274ff3dc52c13517ae73a22a5615bb972e27402e56690617dc1d0148d64061f0e1eff4efc81230c98fc019de1351a01e50662f83a125e126fb623067286bda6#npm:3.13.5", {
+          "packageLocation": "./.yarn/__virtual__/listr2-virtual-a06493cb99/0/cache/listr2-npm-3.13.5-1d724f8ac3-c20203060b.zip/node_modules/listr2/",
           "packageDependencies": [
-            ["listr2", "virtual:4af93b6869655aa70166e177a7f97b0004bce8774973e0e76c86b879502df9cd6bd281d463634053e468ec037e8a62a13ef3cfa8d6a1d2ce6528ebf57b65b655#npm:3.13.5"],
+            ["listr2", "virtual:6274ff3dc52c13517ae73a22a5615bb972e27402e56690617dc1d0148d64061f0e1eff4efc81230c98fc019de1351a01e50662f83a125e126fb623067286bda6#npm:3.13.5"],
             ["@types/enquirer", null],
             ["cli-truncate", "npm:2.1.0"],
             ["colorette", "npm:2.0.16"],
