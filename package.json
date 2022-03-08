@@ -48,7 +48,7 @@
     "clean-webpack-plugin": "^4.0.0",
     "commitizen": "^4.2.4",
     "concurrently": "^7.0.0",
-    "css-loader": "^6.7.0",
+    "css-loader": "^6.7.1",
     "cz-conventional-changelog": "^3.3.0",
     "fontsource-roboto": "^4.0.0",
     "fork-ts-checker-webpack-plugin": "^7.2.1",
