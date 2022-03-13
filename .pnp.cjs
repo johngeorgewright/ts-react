@@ -57,7 +57,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/react-hooks", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:7.0.2"],\
             ["@types/jest", "npm:27.4.1"],\
             ["@types/node", "npm:16.11.26"],\
-            ["@types/prettier", "npm:2.4.4"],\
             ["@types/react", "npm:17.0.40"],\
             ["@types/react-dom", "npm:17.0.13"],\
             ["@types/webpack-dev-server", "npm:4.7.1"],\
@@ -4228,7 +4227,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/react-hooks", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:7.0.2"],\
             ["@types/jest", "npm:27.4.1"],\
             ["@types/node", "npm:16.11.26"],\
-            ["@types/prettier", "npm:2.4.4"],\
             ["@types/react", "npm:17.0.40"],\
             ["@types/react-dom", "npm:17.0.13"],\
             ["@types/webpack-dev-server", "npm:4.7.1"],\
@@ -5757,13 +5755,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-prettier-npm-2.4.1-d83bd651f7-df330c2d6f.zip/node_modules/@types/prettier/",\
           "packageDependencies": [\
             ["@types/prettier", "npm:2.4.1"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:2.4.4", {\
-          "packageLocation": "./.yarn/cache/@types-prettier-npm-2.4.4-bab324963d-2c2cc57efd.zip/node_modules/@types/prettier/",\
-          "packageDependencies": [\
-            ["@types/prettier", "npm:2.4.4"]\
           ],\
           "linkType": "HARD"\
         }]\
