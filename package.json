@@ -1,6 +1,6 @@
 {
   "name": "@johngeorgewright/ts-react",
-  "version": "1.7.0",
+  "version": "2.0.0",
   "description": "A template for browser bundling TypeScript",
   "main": "dist/index.js",
   "private": true,
