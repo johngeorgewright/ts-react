@@ -1,49 +1,50 @@
-import { act, renderHook, RenderResult } from '@testing-library/react-hooks'
+import { act, renderHook } from '@testing-library/react-hooks'
 import useCycle from '../useCycle'
 
 test('initial value', () => {
-  const { result } = renderHook(() => useCycle([1, 2, 3, 4], 1))
-  expect(getState(result)).toBe(2)
+  const result = renderCycleHook(1)
+  result.expect.toBe(2)
 })
 
 test('cycling next', () => {
-  const { result } = renderHook(() => useCycle([1, 2, 3, 4]))
-  expect(getState(result)).toBe(1)
-  next(result)
-  expect(getState(result)).toBe(2)
-  next(result)
-  expect(getState(result)).toBe(3)
-  next(result)
-  expect(getState(result)).toBe(4)
-  next(result)
-  expect(getState(result)).toBe(1)
+  const result = renderCycleHook()
+  result.expect.toBe(1)
+  result.next()
+  result.expect.toBe(2)
+  result.next()
+  result.expect.toBe(3)
+  result.next()
+  result.expect.toBe(4)
+  result.next()
+  result.expect.toBe(1)
 })
 
 test('cycling previous', () => {
-  const { result } = renderHook(() => useCycle([1, 2, 3, 4]))
-  expect(getState(result)).toBe(1)
-  prev(result)
-  expect(getState(result)).toBe(4)
-  prev(result)
-  expect(getState(result)).toBe(3)
-  prev(result)
-  expect(getState(result)).toBe(2)
-  prev(result)
-  expect(getState(result)).toBe(1)
+  const result = renderCycleHook()
+  result.expect.toBe(1)
+  result.prev()
+  result.expect.toBe(4)
+  result.prev()
+  result.expect.toBe(3)
+  result.prev()
+  result.expect.toBe(2)
+  result.prev()
+  result.expect.toBe(1)
 })
 
-type CycleResult = RenderResult<
-  [state: number, next: () => void, prev: () => void]
->
+function renderCycleHook(dflt = 0) {
+  const { result } = renderHook(() => useCycle([1, 2, 3, 4], dflt))
+  return {
+    get expect() {
+      return expect(result.current[0])
+    },
 
-function getState(cycleResult: CycleResult) {
-  return cycleResult.current[0]
-}
+    next() {
+      act(() => result.current[1]())
+    },
 
-function next(cycleResult: CycleResult) {
-  act(() => cycleResult.current[1]())
-}
-
-function prev(cycleResult: CycleResult) {
-  act(() => cycleResult.current[2]())
+    prev() {
+      act(() => result.current[2]())
+    },
+  }
 }
