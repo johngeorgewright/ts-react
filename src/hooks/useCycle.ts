@@ -8,12 +8,12 @@ export default function useCycle<T>(
 
   const next = useCallback(
     () => setIndex(index === stack.length - 1 ? 0 : index + 1),
-    [index, setIndex]
+    [index, setIndex, stack]
   )
 
   const previous = useCallback(
     () => setIndex(index === 0 ? stack.length - 1 : index - 1),
-    [index, setIndex]
+    [index, setIndex, stack]
   )
 
   return [stack[index], next, previous]

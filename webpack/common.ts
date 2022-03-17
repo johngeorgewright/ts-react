@@ -2,6 +2,7 @@ import * as path from 'path'
 import * as webpack from 'webpack'
 import { CleanWebpackPlugin } from 'clean-webpack-plugin'
 import ForkTSCheckerPlugin from 'fork-ts-checker-webpack-plugin'
+import HtmlWebpackPlugin from 'html-webpack-plugin'
 
 const config: webpack.Configuration = {
   devtool: 'source-map',
@@ -38,6 +39,10 @@ const config: webpack.Configuration = {
   },
   plugins: [
     new CleanWebpackPlugin(),
+    new HtmlWebpackPlugin({
+      template: './src/index.html',
+      title: '@mol-ads/control-panel',
+    }),
     new webpack.ProvidePlugin({
       process: 'process/browser',
     }),
