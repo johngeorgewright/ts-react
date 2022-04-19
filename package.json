@@ -55,7 +55,7 @@
     "@types/source-map-support": "0.5.4",
     "@types/webpack-dev-server": "4.7.1",
     "assert-never": "1.2.1",
-    "babel-loader": "8.2.4",
+    "babel-loader": "8.2.5",
     "clean-webpack-plugin": "4.0.0",
     "commitizen": "4.2.4",
     "concurrently": "7.1.0",
