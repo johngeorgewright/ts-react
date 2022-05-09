@@ -71,7 +71,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fontsource-roboto", "npm:4.0.0"],\
             ["fork-ts-checker-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:7.2.11"],\
             ["html-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.5.0"],\
-            ["husky", "npm:8.0.0"],\
+            ["husky", "npm:8.0.1"],\
             ["jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:28.1.0"],\
             ["jest-environment-jsdom", "npm:28.1.0"],\
             ["jest-runner", "npm:28.1.0"],\
@@ -4269,7 +4269,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fontsource-roboto", "npm:4.0.0"],\
             ["fork-ts-checker-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:7.2.11"],\
             ["html-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.5.0"],\
-            ["husky", "npm:8.0.0"],\
+            ["husky", "npm:8.0.1"],\
             ["jest", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:28.1.0"],\
             ["jest-environment-jsdom", "npm:28.1.0"],\
             ["jest-runner", "npm:28.1.0"],\
@@ -10850,10 +10850,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["husky", [\
-        ["npm:8.0.0", {\
-          "packageLocation": "./.yarn/cache/husky-npm-8.0.0-1b3b519c6d-b6b842abdd.zip/node_modules/husky/",\
+        ["npm:8.0.1", {\
+          "packageLocation": "./.yarn/cache/husky-npm-8.0.1-85fede8470-943a73a13d.zip/node_modules/husky/",\
           "packageDependencies": [\
-            ["husky", "npm:8.0.0"]\
+            ["husky", "npm:8.0.1"]\
           ],\
           "linkType": "HARD"\
         }]\
