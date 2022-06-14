@@ -76,7 +76,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-environment-jsdom", "npm:28.1.1"],\
             ["jest-runner", "npm:28.1.1"],\
             ["lint-staged", "npm:13.0.1"],\
-            ["prettier", "npm:2.6.2"],\
+            ["prettier", "npm:2.7.0"],\
             ["process", "npm:0.11.10"],\
             ["react", "npm:18.1.0"],\
             ["react-dom", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:18.1.0"],\
@@ -4706,7 +4706,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-environment-jsdom", "npm:28.1.1"],\
             ["jest-runner", "npm:28.1.1"],\
             ["lint-staged", "npm:13.0.1"],\
-            ["prettier", "npm:2.6.2"],\
+            ["prettier", "npm:2.7.0"],\
             ["process", "npm:0.11.10"],\
             ["react", "npm:18.1.0"],\
             ["react-dom", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:18.1.0"],\
@@ -15316,10 +15316,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["prettier", [\
-        ["npm:2.6.2", {\
-          "packageLocation": "./.yarn/cache/prettier-npm-2.6.2-05918420da-48d08dde8e.zip/node_modules/prettier/",\
+        ["npm:2.7.0", {\
+          "packageLocation": "./.yarn/cache/prettier-npm-2.7.0-77c945e313-5b55bb1dce.zip/node_modules/prettier/",\
           "packageDependencies": [\
-            ["prettier", "npm:2.6.2"]\
+            ["prettier", "npm:2.7.0"]\
           ],\
           "linkType": "HARD"\
         }]\
