@@ -68,7 +68,7 @@
     "jest": "28.1.1",
     "jest-environment-jsdom": "28.1.1",
     "jest-runner": "28.1.1",
-    "lint-staged": "13.0.2",
+    "lint-staged": "13.0.3",
     "prettier": "2.7.1",
     "process": "0.11.10",
     "react": "18.2.0",
