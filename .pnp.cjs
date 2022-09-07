@@ -65,7 +65,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:8.2.5"],\
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0"],\
             ["commitizen", "npm:4.2.5"],\
-            ["concurrently", "npm:7.3.0"],\
+            ["concurrently", "npm:7.4.0"],\
             ["css-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.7.1"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["fontsource-roboto", "npm:4.0.0"],\
@@ -4777,7 +4777,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:8.2.5"],\
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0"],\
             ["commitizen", "npm:4.2.5"],\
-            ["concurrently", "npm:7.3.0"],\
+            ["concurrently", "npm:7.4.0"],\
             ["css-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.7.1"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["fontsource-roboto", "npm:4.0.0"],\
@@ -8927,12 +8927,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["concurrently", [\
-        ["npm:7.3.0", {\
-          "packageLocation": "./.yarn/cache/concurrently-npm-7.3.0-0123c57666-5de845e494.zip/node_modules/concurrently/",\
+        ["npm:7.4.0", {\
+          "packageLocation": "./.yarn/cache/concurrently-npm-7.4.0-6a6d8e6457-cc547866ad.zip/node_modules/concurrently/",\
           "packageDependencies": [\
-            ["concurrently", "npm:7.3.0"],\
+            ["concurrently", "npm:7.4.0"],\
             ["chalk", "npm:4.1.2"],\
-            ["date-fns", "npm:2.25.0"],\
+            ["date-fns", "npm:2.29.2"],\
             ["lodash", "npm:4.17.21"],\
             ["rxjs", "npm:7.5.5"],\
             ["shell-quote", "npm:1.7.3"],\
@@ -9409,10 +9409,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["date-fns", [\
-        ["npm:2.25.0", {\
-          "packageLocation": "./.yarn/cache/date-fns-npm-2.25.0-fe211b387d-8896dc1dde.zip/node_modules/date-fns/",\
+        ["npm:2.29.2", {\
+          "packageLocation": "./.yarn/cache/date-fns-npm-2.29.2-da48c27e93-08bebcceb0.zip/node_modules/date-fns/",\
           "packageDependencies": [\
-            ["date-fns", "npm:2.25.0"]\
+            ["date-fns", "npm:2.29.2"]\
           ],\
           "linkType": "HARD"\
         }]\
