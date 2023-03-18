@@ -50,7 +50,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/release-notes-generator", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.0.3"],\
             ["@testing-library/react", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:13.4.0"],\
             ["@testing-library/react-hooks", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:8.0.1"],\
-            ["@types/jest", "npm:29.4.1"],\
+            ["@types/jest", "npm:29.5.0"],\
             ["@types/node", "npm:18.15.3"],\
             ["@types/react", "npm:18.0.28"],\
             ["@types/react-dom", "npm:18.0.11"],\
@@ -5097,7 +5097,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/release-notes-generator", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.0.3"],\
             ["@testing-library/react", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:13.4.0"],\
             ["@testing-library/react-hooks", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:8.0.1"],\
-            ["@types/jest", "npm:29.4.1"],\
+            ["@types/jest", "npm:29.5.0"],\
             ["@types/node", "npm:18.15.3"],\
             ["@types/react", "npm:18.0.28"],\
             ["@types/react-dom", "npm:18.0.11"],\
@@ -6798,10 +6798,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/jest", [\
-        ["npm:29.4.1", {\
-          "packageLocation": "./.yarn/cache/@types-jest-npm-29.4.1-1b1e6c84b6-75cdd18046.zip/node_modules/@types/jest/",\
+        ["npm:29.5.0", {\
+          "packageLocation": "./.yarn/cache/@types-jest-npm-29.5.0-18eef6c3cc-cd877e5c56.zip/node_modules/@types/jest/",\
           "packageDependencies": [\
-            ["@types/jest", "npm:29.4.1"],\
+            ["@types/jest", "npm:29.5.0"],\
             ["expect", "npm:29.0.3"],\
             ["pretty-format", "npm:29.0.3"]\
           ],\
@@ -18791,7 +18791,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/babel-jest", null],\
             ["@types/babel__core", null],\
             ["@types/esbuild", null],\
-            ["@types/jest", "npm:29.4.1"],\
+            ["@types/jest", "npm:29.5.0"],\
             ["@types/jest__types", null],\
             ["@types/typescript", null],\
             ["babel-jest", null],\
