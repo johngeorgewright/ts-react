@@ -3397,7 +3397,7 @@ __metadata:
     cz-conventional-changelog: 3.3.0
     fontsource-roboto: 4.0.0
     fork-ts-checker-webpack-plugin: 7.3.0
-    html-webpack-plugin: 5.5.0
+    html-webpack-plugin: 5.5.2
     husky: 8.0.3
     jest: 29.5.0
     jest-environment-jsdom: 29.5.0
@@ -9066,9 +9066,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"html-webpack-plugin@npm:5.5.0":
-  version: 5.5.0
-  resolution: "html-webpack-plugin@npm:5.5.0"
+"html-webpack-plugin@npm:5.5.2":
+  version: 5.5.2
+  resolution: "html-webpack-plugin@npm:5.5.2"
   dependencies:
     "@types/html-minifier-terser": ^6.0.0
     html-minifier-terser: ^6.0.2
@@ -9077,7 +9077,7 @@ __metadata:
     tapable: ^2.0.0
   peerDependencies:
     webpack: ^5.20.0
-  checksum: f3d84d0df71fe2f5bac533cc74dce41ab058558cdcc6ff767d166a2abf1cf6fb8491d54d60ddbb34e95c00394e379ba52e0468e0284d1d0cc6a42987056e8219
+  checksum: 0a5bb0447e3a277e8c03f12f25f32952b9a181fc76de70f3427d0c15296e4bffdb3a5753960dc3eee9e2ef7beaf2b5d938277a77cb8d0408a4e80c44c7451975
   languageName: node
   linkType: hard
 
