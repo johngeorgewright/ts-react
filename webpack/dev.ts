@@ -4,12 +4,7 @@ import serve from './serve'
 
 export default merge(common, serve, {
   entry: {
-    'ts-react': ['react-hot-loader/patch', './src/index.tsx'],
+    'ts-react': './src/index.tsx',
   },
   mode: process.env.NODE_ENV === 'production' ? 'production' : 'development',
-  resolve: {
-    alias: {
-      'react-dom': '@hot-loader/react-dom',
-    },
-  },
 })
