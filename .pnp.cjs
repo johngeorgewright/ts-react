@@ -57,7 +57,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.3"],\
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0"],\
             ["commitizen", "npm:4.3.0"],\
-            ["concurrently", "npm:8.2.0"],\
+            ["concurrently", "npm:8.2.1"],\
             ["css-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.8.1"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["fontsource-roboto", "npm:4.0.0"],\
@@ -4935,7 +4935,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.3"],\
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0"],\
             ["commitizen", "npm:4.3.0"],\
-            ["concurrently", "npm:8.2.0"],\
+            ["concurrently", "npm:8.2.1"],\
             ["css-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.8.1"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["fontsource-roboto", "npm:4.0.0"],\
@@ -9296,10 +9296,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["concurrently", [\
-        ["npm:8.2.0", {\
-          "packageLocation": "./.yarn/cache/concurrently-npm-8.2.0-be774a222e-eafe6a4d9b.zip/node_modules/concurrently/",\
+        ["npm:8.2.1", {\
+          "packageLocation": "./.yarn/cache/concurrently-npm-8.2.1-2922c29e4d-216cb16d5b.zip/node_modules/concurrently/",\
           "packageDependencies": [\
-            ["concurrently", "npm:8.2.0"],\
+            ["concurrently", "npm:8.2.1"],\
             ["chalk", "npm:4.1.2"],\
             ["date-fns", "npm:2.30.0"],\
             ["lodash", "npm:4.17.21"],\
