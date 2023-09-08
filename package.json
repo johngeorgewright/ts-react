@@ -38,7 +38,7 @@
     "@emotion/styled": "11.11.0",
     "@jest/types": "29.6.3",
     "@johngw/react-component-mock": "2.1.2",
-    "@mui/material": "5.14.7",
+    "@mui/material": "5.14.8",
     "@semantic-release/commit-analyzer": "10.0.4",
     "@semantic-release/git": "10.0.1",
     "@semantic-release/github": "9.0.4",
