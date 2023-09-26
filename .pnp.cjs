@@ -73,7 +73,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:18.2.0"],\
             ["react-test-renderer", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:18.2.0"],\
-            ["rimraf", "npm:5.0.1"],\
+            ["rimraf", "npm:5.0.4"],\
             ["semantic-release", "npm:21.1.2"],\
             ["source-map-support", "npm:0.5.21"],\
             ["style-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.3.3"],\
@@ -5225,7 +5225,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:18.2.0"],\
             ["react-test-renderer", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:18.2.0"],\
-            ["rimraf", "npm:5.0.1"],\
+            ["rimraf", "npm:5.0.4"],\
             ["semantic-release", "npm:21.1.2"],\
             ["source-map-support", "npm:0.5.21"],\
             ["style-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.3.3"],\
@@ -11907,6 +11907,18 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
+        ["npm:10.3.7", {\
+          "packageLocation": "./.yarn/cache/glob-npm-10.3.7-367f2f7b95-9a27f1fa87.zip/node_modules/glob/",\
+          "packageDependencies": [\
+            ["glob", "npm:10.3.7"],\
+            ["foreground-child", "npm:3.1.1"],\
+            ["jackspeak", "npm:2.2.1"],\
+            ["minimatch", "npm:9.0.1"],\
+            ["minipass", "npm:7.0.3"],\
+            ["path-scurry", "npm:1.10.1"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
         ["npm:7.1.4", {\
           "packageLocation": "./.yarn/cache/glob-npm-7.1.4-8bd8317a74-f52480fc82.zip/node_modules/glob/",\
           "packageDependencies": [\
@@ -15434,6 +15446,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["minipass", "npm:6.0.2"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:7.0.3", {\
+          "packageLocation": "./.yarn/cache/minipass-npm-7.0.3-3b57909ee9-6f1614f5b5.zip/node_modules/minipass/",\
+          "packageDependencies": [\
+            ["minipass", "npm:7.0.3"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["minipass-collect", [\
@@ -16704,6 +16723,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["path-scurry", [\
+        ["npm:1.10.1", {\
+          "packageLocation": "./.yarn/cache/path-scurry-npm-1.10.1-52bd946f2e-e2557cff3a.zip/node_modules/path-scurry/",\
+          "packageDependencies": [\
+            ["path-scurry", "npm:1.10.1"],\
+            ["lru-cache", "npm:10.0.1"],\
+            ["minipass", "npm:7.0.3"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
         ["npm:1.9.2", {\
           "packageLocation": "./.yarn/cache/path-scurry-npm-1.9.2-e4789f2bee-92888dfb68.zip/node_modules/path-scurry/",\
           "packageDependencies": [\
@@ -18012,11 +18040,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:5.0.1", {\
-          "packageLocation": "./.yarn/cache/rimraf-npm-5.0.1-26fb251a1d-bafce85391.zip/node_modules/rimraf/",\
+        ["npm:5.0.4", {\
+          "packageLocation": "./.yarn/cache/rimraf-npm-5.0.4-525827beb5-4423011967.zip/node_modules/rimraf/",\
           "packageDependencies": [\
-            ["rimraf", "npm:5.0.1"],\
-            ["glob", "npm:10.2.7"]\
+            ["rimraf", "npm:5.0.4"],\
+            ["glob", "npm:10.3.7"]\
           ],\
           "linkType": "HARD"\
         }]\
