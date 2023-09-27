@@ -3511,7 +3511,7 @@ __metadata:
     "@mui/material": 5.14.11
     "@semantic-release/commit-analyzer": 10.0.4
     "@semantic-release/git": 10.0.1
-    "@semantic-release/github": 9.1.0
+    "@semantic-release/github": 9.2.1
     "@semantic-release/npm": 10.0.6
     "@semantic-release/release-notes-generator": 11.0.7
     "@testing-library/react": 14.0.0
@@ -4524,9 +4524,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@semantic-release/github@npm:9.1.0":
-  version: 9.1.0
-  resolution: "@semantic-release/github@npm:9.1.0"
+"@semantic-release/github@npm:9.2.1":
+  version: 9.2.1
+  resolution: "@semantic-release/github@npm:9.2.1"
   dependencies:
     "@octokit/core": ^5.0.0
     "@octokit/plugin-paginate-rest": ^9.0.0
@@ -4546,7 +4546,7 @@ __metadata:
     url-join: ^5.0.0
   peerDependencies:
     semantic-release: ">=20.1.0"
-  checksum: 79fd9ed824d7edfa4c730dabcc236369d9ec9ca8f8d799692ee86102ffc299789e6f320dadeee08423319be8931f179eaff2bc11ee8cfd85c2dc8c01973d5245
+  checksum: 40441125e0a68b18b7c58f4003fdbb18565e8d6f1dda97b083bea198092b91c4e2cdbebf34d822e72481c2530b5657bb9b9d7dfe4d7499c011d833e1e4b5506f
   languageName: node
   linkType: hard
 
