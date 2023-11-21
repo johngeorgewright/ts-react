@@ -51,7 +51,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:18.18.8"],\
             ["@types/react", "npm:18.2.36"],\
             ["@types/react-dom", "npm:18.2.14"],\
-            ["@types/source-map-support", "npm:0.5.9"],\
+            ["@types/source-map-support", "npm:0.5.10"],\
             ["@types/webpack-dev-server", "npm:4.7.2"],\
             ["assert-never", "npm:1.2.1"],\
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.3"],\
@@ -5176,7 +5176,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:18.18.8"],\
             ["@types/react", "npm:18.2.36"],\
             ["@types/react-dom", "npm:18.2.14"],\
-            ["@types/source-map-support", "npm:0.5.9"],\
+            ["@types/source-map-support", "npm:0.5.10"],\
             ["@types/webpack-dev-server", "npm:4.7.2"],\
             ["assert-never", "npm:1.2.1"],\
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.3"],\
@@ -7236,10 +7236,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/source-map-support", [\
-        ["npm:0.5.9", {\
-          "packageLocation": "./.yarn/cache/@types-source-map-support-npm-0.5.9-6cd6762b1d-3a2c7b48aa.zip/node_modules/@types/source-map-support/",\
+        ["npm:0.5.10", {\
+          "packageLocation": "./.yarn/cache/@types-source-map-support-npm-0.5.10-99ea057a1d-ef287caea5.zip/node_modules/@types/source-map-support/",\
           "packageDependencies": [\
-            ["@types/source-map-support", "npm:0.5.9"],\
+            ["@types/source-map-support", "npm:0.5.10"],\
             ["source-map", "npm:0.6.1"]\
           ],\
           "linkType": "HARD"\
