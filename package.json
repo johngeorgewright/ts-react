@@ -41,7 +41,7 @@
     "@mui/material": "5.14.18",
     "@semantic-release/commit-analyzer": "10.0.4",
     "@semantic-release/git": "10.0.1",
-    "@semantic-release/github": "9.2.1",
+    "@semantic-release/github": "9.2.3",
     "@semantic-release/npm": "10.0.6",
     "@semantic-release/release-notes-generator": "11.0.7",
     "@testing-library/react": "14.0.0",
