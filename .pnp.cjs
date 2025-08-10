@@ -56,7 +56,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["assert-never", "npm:1.2.1"],\
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.3"],\
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0"],\
-            ["commitizen", "npm:4.3.0"],\
+            ["commitizen", "npm:4.3.1"],\
             ["concurrently", "npm:8.2.2"],\
             ["css-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.8.1"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
@@ -5168,7 +5168,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["assert-never", "npm:1.2.1"],\
             ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.3"],\
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0"],\
-            ["commitizen", "npm:4.3.0"],\
+            ["commitizen", "npm:4.3.1"],\
             ["concurrently", "npm:8.2.2"],\
             ["css-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:6.8.1"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
@@ -9523,10 +9523,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:4.3.0", {\
-          "packageLocation": "./.yarn/cache/commitizen-npm-4.3.0-3695cdaf66-5a54f81ab7.zip/node_modules/commitizen/",\
+        ["npm:4.3.1", {\
+          "packageLocation": "./.yarn/cache/commitizen-npm-4.3.1-eab8087a7a-bcb42ee0cf.zip/node_modules/commitizen/",\
           "packageDependencies": [\
-            ["commitizen", "npm:4.3.0"],\
+            ["commitizen", "npm:4.3.1"],\
             ["cachedir", "npm:2.3.0"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["dedent", "npm:0.7.0"],\
