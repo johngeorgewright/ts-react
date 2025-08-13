@@ -54,7 +54,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/source-map-support", "npm:0.5.10"],\
             ["@types/webpack-dev-server", "npm:4.7.2"],\
             ["assert-never", "npm:1.4.0"],\
-            ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.3"],\
+            ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.2.1"],\
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0"],\
             ["commitizen", "npm:4.3.1"],\
             ["concurrently", "npm:8.2.2"],\
@@ -4615,7 +4615,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/source-map-support", "npm:0.5.10"],\
             ["@types/webpack-dev-server", "npm:4.7.2"],\
             ["assert-never", "npm:1.4.0"],\
-            ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.3"],\
+            ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.2.1"],\
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0"],\
             ["commitizen", "npm:4.3.1"],\
             ["concurrently", "npm:8.2.2"],\
@@ -7759,17 +7759,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["babel-loader", [\
-        ["npm:9.1.3", {\
-          "packageLocation": "./.yarn/cache/babel-loader-npm-9.1.3-cbf4da21df-b168dde5b8.zip/node_modules/babel-loader/",\
+        ["npm:9.2.1", {\
+          "packageLocation": "./.yarn/cache/babel-loader-npm-9.2.1-6cf3231de6-e1858d7625.zip/node_modules/babel-loader/",\
           "packageDependencies": [\
-            ["babel-loader", "npm:9.1.3"]\
+            ["babel-loader", "npm:9.2.1"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.3", {\
-          "packageLocation": "./.yarn/__virtual__/babel-loader-virtual-794e8e9048/0/cache/babel-loader-npm-9.1.3-cbf4da21df-b168dde5b8.zip/node_modules/babel-loader/",\
+        ["virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.2.1", {\
+          "packageLocation": "./.yarn/__virtual__/babel-loader-virtual-a91de8fe9a/0/cache/babel-loader-npm-9.2.1-6cf3231de6-e1858d7625.zip/node_modules/babel-loader/",\
           "packageDependencies": [\
-            ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.1.3"],\
+            ["babel-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:9.2.1"],\
             ["@babel/core", "npm:7.28.0"],\
             ["@types/babel__core", null],\
             ["@types/webpack", null],\
