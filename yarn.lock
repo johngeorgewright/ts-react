@@ -3218,7 +3218,7 @@ __metadata:
     "@semantic-release/release-notes-generator": 11.0.7
     "@testing-library/react": 14.3.1
     "@types/jest": 29.5.14
-    "@types/node": 18.19.127
+    "@types/node": 18.19.130
     "@types/react": 18.3.24
     "@types/react-dom": 18.3.7
     "@types/source-map-support": 0.5.10
@@ -4829,12 +4829,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.19.127":
-  version: 18.19.127
-  resolution: "@types/node@npm:18.19.127"
+"@types/node@npm:18.19.130":
+  version: 18.19.130
+  resolution: "@types/node@npm:18.19.130"
   dependencies:
     undici-types: ~5.26.4
-  checksum: aefbe13a03a40749bafd45f70bccd1f9816f7a79a25f06f23e87786f90b0cc2b865a6779993b1b5e2333c689c612e2579dc4c683ef7d5b6f16255a8c759ea564
+  checksum: b7032363581c416e721a88cffdc2b47662337cacd20f8294f5619a1abf79615c7fef1521964c2aa9d36ed6aae733e1a03e8c704661bd5a0c2f34b390f41ea395
   languageName: node
   linkType: hard
 
