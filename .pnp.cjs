@@ -68,7 +68,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-environment-jsdom", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:29.7.0"],\
             ["jest-runner", "npm:29.7.0"],\
             ["lint-staged", "npm:14.0.1"],\
-            ["prettier", "npm:2.8.8"],\
+            ["prettier", "npm:3.7.4"],\
             ["process", "npm:0.11.10"],\
             ["react", "npm:18.3.1"],\
             ["react-dom", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:18.3.1"],\
@@ -4900,7 +4900,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-environment-jsdom", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:29.7.0"],\
             ["jest-runner", "npm:29.7.0"],\
             ["lint-staged", "npm:14.0.1"],\
-            ["prettier", "npm:2.8.8"],\
+            ["prettier", "npm:3.7.4"],\
             ["process", "npm:0.11.10"],\
             ["react", "npm:18.3.1"],\
             ["react-dom", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:18.3.1"],\
@@ -17016,10 +17016,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["prettier", [\
-        ["npm:2.8.8", {\
-          "packageLocation": "./.yarn/cache/prettier-npm-2.8.8-430828a36c-b49e409431.zip/node_modules/prettier/",\
+        ["npm:3.7.4", {\
+          "packageLocation": "./.yarn/unplugged/prettier-npm-3.7.4-78f94d4194/node_modules/prettier/",\
           "packageDependencies": [\
-            ["prettier", "npm:2.8.8"]\
+            ["prettier", "npm:3.7.4"]\
           ],\
           "linkType": "HARD"\
         }]\
