@@ -3348,7 +3348,7 @@ __metadata:
     "@testing-library/react": 14.3.1
     "@types/jest": 29.5.14
     "@types/node": 18.19.130
-    "@types/react": 18.3.27
+    "@types/react": 18.3.31
     "@types/react-dom": 18.3.7
     "@types/source-map-support": 0.5.10
     "@types/webpack-dev-server": 4.7.2
@@ -5054,13 +5054,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:18.3.27":
-  version: 18.3.27
-  resolution: "@types/react@npm:18.3.27"
+"@types/react@npm:18.3.31":
+  version: 18.3.31
+  resolution: "@types/react@npm:18.3.31"
   dependencies:
     "@types/prop-types": "*"
     csstype: ^3.2.2
-  checksum: c74d0ab5155226998a52b568f6280536205f8fe4317f77bd5d5258bc131cc9134a2db68dc818cb8e8402a2f229843c4a5bde339faf7e64d441630e569a9e5421
+  checksum: fe17985f3debdc83e1804102b51e0a59ba64295c2f10de92ba8c7c8276b70ac3b11bf19870d31279feaa20b00e8d77fa7a17852137a2beba8fad45350bc66d76
   languageName: node
   linkType: hard
 
