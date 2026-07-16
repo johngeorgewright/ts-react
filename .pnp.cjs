@@ -81,7 +81,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ts-node", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.9.2"],\
             ["tslib", "npm:2.8.1"],\
             ["typescript", "patch:typescript@npm%3A5.9.3#~builtin<compat/typescript>::version=5.9.3&hash=5786d5"],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"],\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"],\
             ["webpack-cli", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.1.4"],\
             ["webpack-dev-server", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.15.2"],\
             ["webpack-merge", "npm:5.10.0"]\
@@ -4708,7 +4708,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ts-node", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:10.9.2"],\
             ["tslib", "npm:2.8.1"],\
             ["typescript", "patch:typescript@npm%3A5.9.3#~builtin<compat/typescript>::version=5.9.3&hash=5786d5"],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"],\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"],\
             ["webpack-cli", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.1.4"],\
             ["webpack-dev-server", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.15.2"],\
             ["webpack-merge", "npm:5.10.0"]\
@@ -6422,36 +6422,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["@types/eslint", [\
-        ["npm:7.28.1", {\
-          "packageLocation": "./.yarn/cache/@types-eslint-npm-7.28.1-a2c21db8f2-16086d00c2.zip/node_modules/@types/eslint/",\
-          "packageDependencies": [\
-            ["@types/eslint", "npm:7.28.1"],\
-            ["@types/estree", "npm:0.0.50"],\
-            ["@types/json-schema", "npm:7.0.9"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@types/eslint-scope", [\
-        ["npm:3.7.7", {\
-          "packageLocation": "./.yarn/cache/@types-eslint-scope-npm-3.7.7-efa26592f6-e2889a124a.zip/node_modules/@types/eslint-scope/",\
-          "packageDependencies": [\
-            ["@types/eslint-scope", "npm:3.7.7"],\
-            ["@types/eslint", "npm:7.28.1"],\
-            ["@types/estree", "npm:0.0.50"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["@types/estree", [\
-        ["npm:0.0.50", {\
-          "packageLocation": "./.yarn/cache/@types-estree-npm-0.0.50-b9bc3b8409-9a2b6a4a8c.zip/node_modules/@types/estree/",\
-          "packageDependencies": [\
-            ["@types/estree", "npm:0.0.50"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:1.0.8", {\
           "packageLocation": "./.yarn/cache/@types-estree-npm-1.0.8-2195bac6d6-bd93e2e415.zip/node_modules/@types/estree/",\
           "packageDependencies": [\
@@ -7072,7 +7043,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@webpack-cli/configtest", "virtual:db4f9770ed18a92d5a1d3df609a71aff9d502bced967d6ef817a2fd0f9c5f1766b7872048027ddf5749ec83b065853389a0d7cf160778b64fc1c2be4a69f7d1e#npm:2.1.1"],\
             ["@types/webpack", null],\
             ["@types/webpack-cli", null],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"],\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"],\
             ["webpack-cli", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.1.4"]\
           ],\
           "packagePeers": [\
@@ -7098,7 +7069,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@webpack-cli/info", "virtual:db4f9770ed18a92d5a1d3df609a71aff9d502bced967d6ef817a2fd0f9c5f1766b7872048027ddf5749ec83b065853389a0d7cf160778b64fc1c2be4a69f7d1e#npm:2.0.2"],\
             ["@types/webpack", null],\
             ["@types/webpack-cli", null],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"],\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"],\
             ["webpack-cli", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.1.4"]\
           ],\
           "packagePeers": [\
@@ -7125,7 +7096,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/webpack", null],\
             ["@types/webpack-cli", null],\
             ["@types/webpack-dev-server", "npm:4.7.2"],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"],\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"],\
             ["webpack-cli", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.1.4"],\
             ["webpack-dev-server", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.15.2"]\
           ],\
@@ -7239,6 +7210,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
+        ["npm:8.17.0", {\
+          "packageLocation": "./.yarn/cache/acorn-npm-8.17.0-c53f71d3b1-98f0800a48.zip/node_modules/acorn/",\
+          "packageDependencies": [\
+            ["acorn", "npm:8.17.0"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
         ["npm:8.5.0", {\
           "packageLocation": "./.yarn/cache/acorn-npm-8.5.0-faed0ea119-2e4c1dbed3.zip/node_modules/acorn/",\
           "packageDependencies": [\
@@ -7280,12 +7258,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:01d96b1a6986b2950487d9ebd647b9f122eaa9b74d4ce652a48f3e898d1b028e1964b0760a25cd1e6285c184fcdd14da7de53db64da8e54df0fb3e320ee3843b#npm:1.0.4", {\
-          "packageLocation": "./.yarn/__virtual__/acorn-import-phases-virtual-d7aac36ba8/0/cache/acorn-import-phases-npm-1.0.4-c85e685904-e669cccfb6.zip/node_modules/acorn-import-phases/",\
+        ["virtual:122a929dce582e97c3c2ebf962744d9085476b973cc593c5e2fdaf6103db083662e1c3fd66fd19eb05421014d16115c7bc77d3d2f19e713f6b76e0b2b9685054#npm:1.0.4", {\
+          "packageLocation": "./.yarn/__virtual__/acorn-import-phases-virtual-5d3639b1c8/0/cache/acorn-import-phases-npm-1.0.4-c85e685904-e669cccfb6.zip/node_modules/acorn-import-phases/",\
           "packageDependencies": [\
-            ["acorn-import-phases", "virtual:01d96b1a6986b2950487d9ebd647b9f122eaa9b74d4ce652a48f3e898d1b028e1964b0760a25cd1e6285c184fcdd14da7de53db64da8e54df0fb3e320ee3843b#npm:1.0.4"],\
+            ["acorn-import-phases", "virtual:122a929dce582e97c3c2ebf962744d9085476b973cc593c5e2fdaf6103db083662e1c3fd66fd19eb05421014d16115c7bc77d3d2f19e713f6b76e0b2b9685054#npm:1.0.4"],\
             ["@types/acorn", null],\
-            ["acorn", "npm:8.15.0"]\
+            ["acorn", "npm:8.17.0"]\
           ],\
           "packagePeers": [\
             "@types/acorn",\
@@ -7915,7 +7893,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/webpack", null],\
             ["find-cache-dir", "npm:4.0.0"],\
             ["schema-utils", "npm:4.0.0"],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"]\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"]\
           ],\
           "packagePeers": [\
             "@babel/core",\
@@ -8145,13 +8123,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["baseline-browser-mapping", "npm:2.10.43"]\
           ],\
           "linkType": "HARD"\
-        }],\
-        ["npm:2.9.0", {\
-          "packageLocation": "./.yarn/cache/baseline-browser-mapping-npm-2.9.0-ab76c33dd2-bf357fb42a.zip/node_modules/baseline-browser-mapping/",\
-          "packageDependencies": [\
-            ["baseline-browser-mapping", "npm:2.9.0"]\
-          ],\
-          "linkType": "HARD"\
         }]\
       ]],\
       ["batch", [\
@@ -8359,18 +8330,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["electron-to-chromium", "npm:1.5.199"],\
             ["node-releases", "npm:2.0.19"],\
             ["update-browserslist-db", "virtual:709063cc7c27323dd9dc113c4a8744367f834f43252a97255f46615804d535055749a2717337a2726f379c9cac3d264f99cb1ce68eb8a2af5fcbcd17dc557c2e#npm:1.1.3"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:4.28.1", {\
-          "packageLocation": "./.yarn/cache/browserslist-npm-4.28.1-e455c4c2e8-895357d912.zip/node_modules/browserslist/",\
-          "packageDependencies": [\
-            ["browserslist", "npm:4.28.1"],\
-            ["baseline-browser-mapping", "npm:2.9.0"],\
-            ["caniuse-lite", "npm:1.0.30001759"],\
-            ["electron-to-chromium", "npm:1.5.263"],\
-            ["node-releases", "npm:2.0.27"],\
-            ["update-browserslist-db", "virtual:e455c4c2e8dc3f3e2b2f64927f2b0dff7ca09ff7730ccbb69cae3e9342c0b24fae16e40b2aa46a2b677c172a1365ba425382266fccbf1e96179eec79a4a5c294#npm:1.2.1"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -8621,13 +8580,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:1.0.30001759", {\
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001759-1f5e837824-db200cf52a.zip/node_modules/caniuse-lite/",\
-          "packageDependencies": [\
-            ["caniuse-lite", "npm:1.0.30001759"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:1.0.30001805", {\
           "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001805-56684dbbf8-04dbcfd668.zip/node_modules/caniuse-lite/",\
           "packageDependencies": [\
@@ -8841,7 +8793,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["clean-webpack-plugin", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.0.0"],\
             ["@types/webpack", null],\
             ["del", "npm:4.1.1"],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"]\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"]\
           ],\
           "packagePeers": [\
             "@types/webpack",\
@@ -9596,7 +9548,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss-modules-values", "virtual:c0fe2e1bbdbac732e1e41a2394560c9920e047a874fb5e19429d2cd9ab303370db8c6fd2b6ae5296619a936d8ef5ccc7d271c3322258e578560490031fea57b0#npm:4.0.0"],\
             ["postcss-value-parser", "npm:4.2.0"],\
             ["semver", "npm:7.5.4"],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"]\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"]\
           ],\
           "packagePeers": [\
             "@rspack/core",\
@@ -10398,13 +10350,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:1.5.263", {\
-          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.5.263-39696b5582-0ebdb43b8c.zip/node_modules/electron-to-chromium/",\
-          "packageDependencies": [\
-            ["electron-to-chromium", "npm:1.5.263"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:1.5.389", {\
           "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.5.389-18cb40fe01-7f70883965.zip/node_modules/electron-to-chromium/",\
           "packageDependencies": [\
@@ -10458,12 +10403,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["enhanced-resolve", [\
-        ["npm:5.18.3", {\
-          "packageLocation": "./.yarn/cache/enhanced-resolve-npm-5.18.3-37e11179c7-e2b2188a7f.zip/node_modules/enhanced-resolve/",\
+        ["npm:5.24.2", {\
+          "packageLocation": "./.yarn/cache/enhanced-resolve-npm-5.24.2-fba24be45c-de8010df30.zip/node_modules/enhanced-resolve/",\
           "packageDependencies": [\
-            ["enhanced-resolve", "npm:5.18.3"],\
+            ["enhanced-resolve", "npm:5.24.2"],\
             ["graceful-fs", "npm:4.2.8"],\
-            ["tapable", "npm:2.2.1"]\
+            ["tapable", "npm:2.3.3"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -10560,10 +10505,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["es-module-lexer", [\
-        ["npm:1.3.0", {\
-          "packageLocation": "./.yarn/cache/es-module-lexer-npm-1.3.0-9be5e8b1c4-48fd9f504a.zip/node_modules/es-module-lexer/",\
+        ["npm:2.3.1", {\
+          "packageLocation": "./.yarn/cache/es-module-lexer-npm-2.3.1-557b1f9cf0-d95f4184ce.zip/node_modules/es-module-lexer/",\
           "packageDependencies": [\
-            ["es-module-lexer", "npm:1.3.0"]\
+            ["es-module-lexer", "npm:2.3.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -11295,7 +11240,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["semver", "npm:7.3.5"],\
             ["tapable", "npm:2.2.1"],\
             ["typescript", "patch:typescript@npm%3A5.9.3#~builtin<compat/typescript>::version=5.9.3&hash=5786d5"],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"]\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"]\
           ],\
           "packagePeers": [\
             "@types/typescript",\
@@ -11688,15 +11633,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["glob-parent", "npm:5.1.2"],\
             ["is-glob", "npm:4.0.3"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["glob-to-regexp", [\
-        ["npm:0.4.1", {\
-          "packageLocation": "./.yarn/cache/glob-to-regexp-npm-0.4.1-cd697e0fc7-e795f4e8f0.zip/node_modules/glob-to-regexp/",\
-          "packageDependencies": [\
-            ["glob-to-regexp", "npm:0.4.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -12117,7 +12053,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["lodash", "npm:4.17.21"],\
             ["pretty-error", "npm:4.0.0"],\
             ["tapable", "npm:2.2.1"],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"]\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"]\
           ],\
           "packagePeers": [\
             "@rspack/core",\
@@ -14470,10 +14406,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["loader-runner", [\
-        ["npm:4.3.1", {\
-          "packageLocation": "./.yarn/cache/loader-runner-npm-4.3.1-1108bf513b-14689a39a7.zip/node_modules/loader-runner/",\
+        ["npm:4.3.2", {\
+          "packageLocation": "./.yarn/cache/loader-runner-npm-4.3.2-e730ab9cab-92906b3d18.zip/node_modules/loader-runner/",\
           "packageDependencies": [\
-            ["loader-runner", "npm:4.3.1"]\
+            ["loader-runner", "npm:4.3.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -15104,6 +15040,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["mime-db", "npm:1.52.0"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:1.54.0", {\
+          "packageLocation": "./.yarn/cache/mime-db-npm-1.54.0-82cccb9d70-e99aaf2f23.zip/node_modules/mime-db/",\
+          "packageDependencies": [\
+            ["mime-db", "npm:1.54.0"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["mime-types", [\
@@ -15222,6 +15165,80 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["arrify", "npm:1.0.1"],\
             ["is-plain-obj", "npm:1.1.0"],\
             ["kind-of", "npm:6.0.3"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["minimizer-webpack-plugin", [\
+        ["npm:5.6.1", {\
+          "packageLocation": "./.yarn/cache/minimizer-webpack-plugin-npm-5.6.1-f531082d14-ea53641ef5.zip/node_modules/minimizer-webpack-plugin/",\
+          "packageDependencies": [\
+            ["minimizer-webpack-plugin", "npm:5.6.1"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:122a929dce582e97c3c2ebf962744d9085476b973cc593c5e2fdaf6103db083662e1c3fd66fd19eb05421014d16115c7bc77d3d2f19e713f6b76e0b2b9685054#npm:5.6.1", {\
+          "packageLocation": "./.yarn/__virtual__/minimizer-webpack-plugin-virtual-fa3417ec72/0/cache/minimizer-webpack-plugin-npm-5.6.1-f531082d14-ea53641ef5.zip/node_modules/minimizer-webpack-plugin/",\
+          "packageDependencies": [\
+            ["minimizer-webpack-plugin", "virtual:122a929dce582e97c3c2ebf962744d9085476b973cc593c5e2fdaf6103db083662e1c3fd66fd19eb05421014d16115c7bc77d3d2f19e713f6b76e0b2b9685054#npm:5.6.1"],\
+            ["@jridgewell/trace-mapping", "npm:0.3.30"],\
+            ["@minify-html/node", null],\
+            ["@swc/core", null],\
+            ["@swc/css", null],\
+            ["@swc/html", null],\
+            ["@types/clean-css", null],\
+            ["@types/cssnano", null],\
+            ["@types/csso", null],\
+            ["@types/esbuild", null],\
+            ["@types/html-minifier-terser", null],\
+            ["@types/lightningcss", null],\
+            ["@types/minify-html__node", null],\
+            ["@types/postcss", null],\
+            ["@types/swc__core", null],\
+            ["@types/swc__css", null],\
+            ["@types/swc__html", null],\
+            ["@types/uglify-js", null],\
+            ["@types/webpack", null],\
+            ["clean-css", null],\
+            ["cssnano", null],\
+            ["csso", null],\
+            ["esbuild", null],\
+            ["html-minifier-terser", null],\
+            ["jest-worker", "npm:27.5.1"],\
+            ["lightningcss", null],\
+            ["postcss", null],\
+            ["schema-utils", "npm:4.3.2"],\
+            ["terser", "npm:5.44.0"],\
+            ["uglify-js", null],\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"]\
+          ],\
+          "packagePeers": [\
+            "@minify-html/node",\
+            "@swc/core",\
+            "@swc/css",\
+            "@swc/html",\
+            "@types/clean-css",\
+            "@types/cssnano",\
+            "@types/csso",\
+            "@types/esbuild",\
+            "@types/html-minifier-terser",\
+            "@types/lightningcss",\
+            "@types/minify-html__node",\
+            "@types/postcss",\
+            "@types/swc__core",\
+            "@types/swc__css",\
+            "@types/swc__html",\
+            "@types/uglify-js",\
+            "@types/webpack",\
+            "clean-css",\
+            "cssnano",\
+            "csso",\
+            "esbuild",\
+            "html-minifier-terser",\
+            "lightningcss",\
+            "postcss",\
+            "uglify-js",\
+            "webpack"\
           ],\
           "linkType": "HARD"\
         }]\
@@ -15630,13 +15647,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/node-releases-npm-2.0.19-b123ed6240-917dbced51.zip/node_modules/node-releases/",\
           "packageDependencies": [\
             ["node-releases", "npm:2.0.19"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:2.0.27", {\
-          "packageLocation": "./.yarn/cache/node-releases-npm-2.0.27-b2d1b8de4a-a9a54079d8.zip/node_modules/node-releases/",\
-          "packageDependencies": [\
-            ["node-releases", "npm:2.0.27"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -17138,16 +17148,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["randombytes", [\
-        ["npm:2.1.0", {\
-          "packageLocation": "./.yarn/cache/randombytes-npm-2.1.0-e3da76bccf-d779499376.zip/node_modules/randombytes/",\
-          "packageDependencies": [\
-            ["randombytes", "npm:2.1.0"],\
-            ["safe-buffer", "npm:5.2.1"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["range-parser", [\
         ["npm:1.2.1", {\
           "packageLocation": "./.yarn/cache/range-parser-npm-1.2.1-1a470fa390-0a268d4fea.zip/node_modules/range-parser/",\
@@ -18217,16 +18217,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["serialize-javascript", [\
-        ["npm:6.0.2", {\
-          "packageLocation": "./.yarn/cache/serialize-javascript-npm-6.0.2-cc09461d45-c4839c6206.zip/node_modules/serialize-javascript/",\
-          "packageDependencies": [\
-            ["serialize-javascript", "npm:6.0.2"],\
-            ["randombytes", "npm:2.1.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["serve-index", [\
         ["npm:1.9.1", {\
           "packageLocation": "./.yarn/cache/serve-index-npm-1.9.1-4927052df8-e2647ce133.zip/node_modules/serve-index/",\
@@ -18986,7 +18976,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["style-loader", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:3.3.4"],\
             ["@types/webpack", null],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"]\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"]\
           ],\
           "packagePeers": [\
             "@types/webpack",\
@@ -19073,6 +19063,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["tapable", "npm:2.3.0"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:2.3.3", {\
+          "packageLocation": "./.yarn/cache/tapable-npm-2.3.3-b058b6534f-6f37a59e82.zip/node_modules/tapable/",\
+          "packageDependencies": [\
+            ["tapable", "npm:2.3.3"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["tar", [\
@@ -19145,45 +19142,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["commander", "npm:2.20.3"],\
             ["source-map", "npm:0.7.3"],\
             ["source-map-support", "npm:0.5.20"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["terser-webpack-plugin", [\
-        ["npm:5.3.14", {\
-          "packageLocation": "./.yarn/cache/terser-webpack-plugin-npm-5.3.14-e4f2e3cd89-13a1e67f16.zip/node_modules/terser-webpack-plugin/",\
-          "packageDependencies": [\
-            ["terser-webpack-plugin", "npm:5.3.14"]\
-          ],\
-          "linkType": "SOFT"\
-        }],\
-        ["virtual:01d96b1a6986b2950487d9ebd647b9f122eaa9b74d4ce652a48f3e898d1b028e1964b0760a25cd1e6285c184fcdd14da7de53db64da8e54df0fb3e320ee3843b#npm:5.3.14", {\
-          "packageLocation": "./.yarn/__virtual__/terser-webpack-plugin-virtual-93e4b06e3d/0/cache/terser-webpack-plugin-npm-5.3.14-e4f2e3cd89-13a1e67f16.zip/node_modules/terser-webpack-plugin/",\
-          "packageDependencies": [\
-            ["terser-webpack-plugin", "virtual:01d96b1a6986b2950487d9ebd647b9f122eaa9b74d4ce652a48f3e898d1b028e1964b0760a25cd1e6285c184fcdd14da7de53db64da8e54df0fb3e320ee3843b#npm:5.3.14"],\
-            ["@jridgewell/trace-mapping", "npm:0.3.30"],\
-            ["@swc/core", null],\
-            ["@types/esbuild", null],\
-            ["@types/swc__core", null],\
-            ["@types/uglify-js", null],\
-            ["@types/webpack", null],\
-            ["esbuild", null],\
-            ["jest-worker", "npm:27.5.1"],\
-            ["schema-utils", "npm:4.3.2"],\
-            ["serialize-javascript", "npm:6.0.2"],\
-            ["terser", "npm:5.44.0"],\
-            ["uglify-js", null],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"]\
-          ],\
-          "packagePeers": [\
-            "@swc/core",\
-            "@types/esbuild",\
-            "@types/swc__core",\
-            "@types/uglify-js",\
-            "@types/webpack",\
-            "esbuild",\
-            "uglify-js",\
-            "webpack"\
           ],\
           "linkType": "HARD"\
         }]\
@@ -19853,13 +19811,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["npm:1.2.1", {\
-          "packageLocation": "./.yarn/cache/update-browserslist-db-npm-1.2.1-f135902430-f5f76bb242.zip/node_modules/update-browserslist-db/",\
-          "packageDependencies": [\
-            ["update-browserslist-db", "npm:1.2.1"]\
-          ],\
-          "linkType": "SOFT"\
-        }],\
         ["npm:1.2.3", {\
           "packageLocation": "./.yarn/cache/update-browserslist-db-npm-1.2.3-de1d320326-6f209a97ae.zip/node_modules/update-browserslist-db/",\
           "packageDependencies": [\
@@ -19888,21 +19839,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["update-browserslist-db", "virtual:709063cc7c27323dd9dc113c4a8744367f834f43252a97255f46615804d535055749a2717337a2726f379c9cac3d264f99cb1ce68eb8a2af5fcbcd17dc557c2e#npm:1.1.3"],\
             ["@types/browserslist", null],\
             ["browserslist", "npm:4.25.2"],\
-            ["escalade", "npm:3.2.0"],\
-            ["picocolors", "npm:1.1.1"]\
-          ],\
-          "packagePeers": [\
-            "@types/browserslist",\
-            "browserslist"\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["virtual:e455c4c2e8dc3f3e2b2f64927f2b0dff7ca09ff7730ccbb69cae3e9342c0b24fae16e40b2aa46a2b677c172a1365ba425382266fccbf1e96179eec79a4a5c294#npm:1.2.1", {\
-          "packageLocation": "./.yarn/__virtual__/update-browserslist-db-virtual-5df5f7fc55/0/cache/update-browserslist-db-npm-1.2.1-f135902430-f5f76bb242.zip/node_modules/update-browserslist-db/",\
-          "packageDependencies": [\
-            ["update-browserslist-db", "virtual:e455c4c2e8dc3f3e2b2f64927f2b0dff7ca09ff7730ccbb69cae3e9342c0b24fae16e40b2aa46a2b677c172a1365ba425382266fccbf1e96179eec79a4a5c294#npm:1.2.1"],\
-            ["@types/browserslist", null],\
-            ["browserslist", "npm:4.28.1"],\
             ["escalade", "npm:3.2.0"],\
             ["picocolors", "npm:1.1.1"]\
           ],\
@@ -20066,11 +20002,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["watchpack", [\
-        ["npm:2.4.4", {\
-          "packageLocation": "./.yarn/cache/watchpack-npm-2.4.4-01f92bffc4-469514a04b.zip/node_modules/watchpack/",\
+        ["npm:2.5.2", {\
+          "packageLocation": "./.yarn/cache/watchpack-npm-2.5.2-4aefb6abea-f057bf74f8.zip/node_modules/watchpack/",\
           "packageDependencies": [\
-            ["watchpack", "npm:2.4.4"],\
-            ["glob-to-regexp", "npm:0.4.1"],\
+            ["watchpack", "npm:2.5.2"],\
             ["graceful-fs", "npm:4.2.8"]\
           ],\
           "linkType": "HARD"\
@@ -20113,44 +20048,41 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["webpack", [\
-        ["npm:5.103.0", {\
-          "packageLocation": "./.yarn/cache/webpack-npm-5.103.0-8cc8082277-dd73cb5194.zip/node_modules/webpack/",\
+        ["npm:5.108.4", {\
+          "packageLocation": "./.yarn/cache/webpack-npm-5.108.4-a352d7b03f-f58493ef14.zip/node_modules/webpack/",\
           "packageDependencies": [\
-            ["webpack", "npm:5.103.0"]\
+            ["webpack", "npm:5.108.4"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0", {\
-          "packageLocation": "./.yarn/__virtual__/webpack-virtual-01d96b1a69/0/cache/webpack-npm-5.103.0-8cc8082277-dd73cb5194.zip/node_modules/webpack/",\
+        ["virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4", {\
+          "packageLocation": "./.yarn/__virtual__/webpack-virtual-122a929dce/0/cache/webpack-npm-5.108.4-a352d7b03f-f58493ef14.zip/node_modules/webpack/",\
           "packageDependencies": [\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"],\
-            ["@types/eslint-scope", "npm:3.7.7"],\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"],\
             ["@types/estree", "npm:1.0.8"],\
             ["@types/json-schema", "npm:7.0.15"],\
             ["@types/webpack-cli", null],\
             ["@webassemblyjs/ast", "npm:1.14.1"],\
             ["@webassemblyjs/wasm-edit", "npm:1.14.1"],\
             ["@webassemblyjs/wasm-parser", "npm:1.14.1"],\
-            ["acorn", "npm:8.15.0"],\
-            ["acorn-import-phases", "virtual:01d96b1a6986b2950487d9ebd647b9f122eaa9b74d4ce652a48f3e898d1b028e1964b0760a25cd1e6285c184fcdd14da7de53db64da8e54df0fb3e320ee3843b#npm:1.0.4"],\
-            ["browserslist", "npm:4.28.1"],\
+            ["acorn", "npm:8.17.0"],\
+            ["acorn-import-phases", "virtual:122a929dce582e97c3c2ebf962744d9085476b973cc593c5e2fdaf6103db083662e1c3fd66fd19eb05421014d16115c7bc77d3d2f19e713f6b76e0b2b9685054#npm:1.0.4"],\
+            ["browserslist", "npm:4.28.6"],\
             ["chrome-trace-event", "npm:1.0.3"],\
-            ["enhanced-resolve", "npm:5.18.3"],\
-            ["es-module-lexer", "npm:1.3.0"],\
+            ["enhanced-resolve", "npm:5.24.2"],\
+            ["es-module-lexer", "npm:2.3.1"],\
             ["eslint-scope", "npm:5.1.1"],\
             ["events", "npm:3.3.0"],\
-            ["glob-to-regexp", "npm:0.4.1"],\
             ["graceful-fs", "npm:4.2.11"],\
-            ["json-parse-even-better-errors", "npm:2.3.1"],\
-            ["loader-runner", "npm:4.3.1"],\
-            ["mime-types", "npm:2.1.33"],\
+            ["loader-runner", "npm:4.3.2"],\
+            ["mime-db", "npm:1.54.0"],\
+            ["minimizer-webpack-plugin", "virtual:122a929dce582e97c3c2ebf962744d9085476b973cc593c5e2fdaf6103db083662e1c3fd66fd19eb05421014d16115c7bc77d3d2f19e713f6b76e0b2b9685054#npm:5.6.1"],\
             ["neo-async", "npm:2.6.2"],\
             ["schema-utils", "npm:4.3.3"],\
             ["tapable", "npm:2.3.0"],\
-            ["terser-webpack-plugin", "virtual:01d96b1a6986b2950487d9ebd647b9f122eaa9b74d4ce652a48f3e898d1b028e1964b0760a25cd1e6285c184fcdd14da7de53db64da8e54df0fb3e320ee3843b#npm:5.3.14"],\
-            ["watchpack", "npm:2.4.4"],\
+            ["watchpack", "npm:2.5.2"],\
             ["webpack-cli", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.1.4"],\
-            ["webpack-sources", "npm:3.3.3"]\
+            ["webpack-sources", "npm:3.5.1"]\
           ],\
           "packagePeers": [\
             "@types/webpack-cli",\
@@ -20188,7 +20120,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["import-local", "npm:3.0.3"],\
             ["interpret", "npm:3.1.1"],\
             ["rechoir", "npm:0.8.0"],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"],\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"],\
             ["webpack-bundle-analyzer", null],\
             ["webpack-dev-server", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:4.15.2"],\
             ["webpack-merge", "npm:5.8.0"]\
@@ -20231,7 +20163,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["mime-types", "npm:2.1.33"],\
             ["range-parser", "npm:1.2.1"],\
             ["schema-utils", "npm:4.0.0"],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"]\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"]\
           ],\
           "packagePeers": [\
             "@types/webpack",\
@@ -20353,7 +20285,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["serve-index", "npm:1.9.1"],\
             ["sockjs", "npm:0.3.24"],\
             ["spdy", "npm:4.0.2"],\
-            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.103.0"],\
+            ["webpack", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.108.4"],\
             ["webpack-cli", "virtual:7ba3a1726cf6a1230dd803b30b5e43e1f63943b3638817a30ba4245a3992b9e64acaeb10a7a650968a24664bbb29f46daee46a9b1f72164b0616dafe5552cca8#npm:5.1.4"],\
             ["webpack-dev-middleware", "virtual:c22de298311794e8ffec18f9e95d429f761e629d9c4307a73cedd4e3cb5b0785c69b8e3784f0babe46f1031a8487e0e59531169594ed8e92bec118f6bb202104#npm:5.3.4"],\
             ["ws", "virtual:c22de298311794e8ffec18f9e95d429f761e629d9c4307a73cedd4e3cb5b0785c69b8e3784f0babe46f1031a8487e0e59531169594ed8e92bec118f6bb202104#npm:8.13.0"]\
@@ -20389,10 +20321,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["webpack-sources", [\
-        ["npm:3.3.3", {\
-          "packageLocation": "./.yarn/cache/webpack-sources-npm-3.3.3-62a2b4959b-243d438ec4.zip/node_modules/webpack-sources/",\
+        ["npm:3.5.1", {\
+          "packageLocation": "./.yarn/cache/webpack-sources-npm-3.5.1-7cab4e2d89-496528dbaf.zip/node_modules/webpack-sources/",\
           "packageDependencies": [\
-            ["webpack-sources", "npm:3.3.3"]\
+            ["webpack-sources", "npm:3.5.1"]\
           ],\
           "linkType": "HARD"\
         }]\
